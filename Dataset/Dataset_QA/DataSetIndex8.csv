@@ -1,0 +1,183 @@
+,question,answer,question_index,answer_index,document_index
+0,What are the consequences for guests who do not observe or violate the hotel rules? ,"In order for our guests to have a safe and comfortable stay, we have set the following rules and
+guidelines based on Article 10 of the Accommodation agreement. We expect and appreciate
+everyone for their cooperation. If the rules stated are not observed or violated, hotel management
+will reserve the right to refuse the guest service of accommodation and use of hotel facilities. Guests
+may be also held responsible for any damages incurred.",O,0,8
+1,"
+What is the purpose of the rules and guidelines stated in the text? ","In order for our guests to have a safe and comfortable stay, we have set the following rules and
+guidelines based on Article 10 of the Accommodation agreement. We expect and appreciate
+everyone for their cooperation. If the rules stated are not observed or violated, hotel management
+will reserve the right to refuse the guest service of accommodation and use of hotel facilities. Guests
+may be also held responsible for any damages incurred.",C,0,8
+2,"
+Who may be held responsible for any damages incurred in the hotel?","In order for our guests to have a safe and comfortable stay, we have set the following rules and
+guidelines based on Article 10 of the Accommodation agreement. We expect and appreciate
+everyone for their cooperation. If the rules stated are not observed or violated, hotel management
+will reserve the right to refuse the guest service of accommodation and use of hotel facilities. Guests
+may be also held responsible for any damages incurred.",C,0,8
+3,What is the purpose of the evacuation route map?,"
+The evacuation route map is installed at the back of each guest room door so please
+check when you arrive in your room.",O,1,8
+4,Is a password required to access the location?,"
+Please refrain from staying if you are not a registered guest.",O,2,8
+5,What is the reason for refusing guests at this establishment?,"
+We do not allow minors to stay without a guardian. Also, we may refuse guests due to
+mental and physical concerns, drugs, drunk guests and other acts that may cause
+disturbance to other guests.",O,3,8
+6,What is the purpose of asking for cooperation in saving electricity and conserving water resources?,"
+Please note that long-term accommodation will not give legal residence rights.
+We ask for your cooperation in saving electricity and conserving water resources carefully.",O,4,8
+7,What is the main purpose of checking the room key when leaving the room?,"
+When leaving your room, please make sure to bring along your room key and to check if
+it is properly lock.",O,5,8
+8,What is the reason for imposing a charge for a lost room card key? ,"
+Please make sure to lock the door latch when inside the room or when sleeping.
+A 3,000yen charge will be imposed as a replacement fee for a lost room card key.
+Please make sure to return your room card key at the front desk when leaving the hotel.",O,6,8
+9,"
+What should you do with your room card key when leaving the hotel?","
+Please make sure to lock the door latch when inside the room or when sleeping.
+A 3,000yen charge will be imposed as a replacement fee for a lost room card key.
+Please make sure to return your room card key at the front desk when leaving the hotel.",C,6,8
+10,Why is it necessary for visitors to meet at the lobby of the hotel?,"
+ For the safety of our guests, we request to meet your visitors at the lobby of the hotel.",O,7,8
+11,What is the purpose of checking the peephole or putting on the door latch when someone knocks at the door?,"
+When someone knocks at the door, please put on the door latch or check at the
+peephole.",O,8,8
+12,What is the reason for not being allowed to cook inside the guest room?,"
+ Please refrain from using fires such as lighting up candles without the permission of the
+hotel. Also, cooking inside the guest room is strictly prohibited.",O,9,8
+13,What is the main reason for the request to refrain from smoking near certain items in the room?,"
+Even if it is possible to smoke inside the room, please refrain from smoking near items
+that are prone to fire such as the bed.",O,10,8
+14,"Is smoking allowed in any area of the hotel besides the designated smoking area? 
+","
+Smoking is strictly prohibited inside the hotel except for the designated smoking area.
+Other than accommodation, please refrain from using the guest room for any other
+purposes such as business activities, offices, parties, etc. without permission from the
+hotel.",O,11,8
+15, Is a guest allowed to use the room for business activities without permission from the hotel?,"
+Smoking is strictly prohibited inside the hotel except for the designated smoking area.
+Other than accommodation, please refrain from using the guest room for any other
+purposes such as business activities, offices, parties, etc. without permission from the
+hotel.",C,11,8
+16,Is it allowed to move any equipment inside the room without permission?,"
+Please do not move, modify or make any alteration to any equipment inside your room without the permission from the hotel.
+Taking any equipment outside the room is not allowed.",O,12,8
+17,What is the main concern of the hotel staff regarding the guest's belongings?,"
+Do not place anything on the window that would damage the appearance of the hotel.
+Please be sure to manage your valuables and expensive items.",O,13,8
+18,What type of items would be stored for 3 days?,"
+The storage period for checked-in and forgotten items are as follows:
+Food (unopened): 3 days from the date of discovery
+Other than food: 1 month from the date of discovery",O,14,8
+19,What are the potential consequences for a guest if an item is not collected within the storage period?,"
+If item is not collected within the storage period, it will be considered that the guest has abandoned
+its ownership and can be disposed freely by the hotel. In this case, guest may not be able to object
+or retrieve the item.",O,15,8
+20,What is the purpose of handling lost items according to the law?,"
+We will handle the lost items according to the law.",O,16,8
+21,What type of items are guests advised not to store in their parked car? ,"
+ Please follow the guide and instructions provided by the hotel staff.
+Do not store valuables or other items in the parked car. Hotel will not be responsible for
+any loss or theft during parking.",O,17,8
+22," 
+Is the hotel liable for any loss or theft of items stored in the parked car?","
+ Please follow the guide and instructions provided by the hotel staff.
+Do not store valuables or other items in the parked car. Hotel will not be responsible for
+any loss or theft during parking.",C,17,8
+23,What forms of payment are accepted by the hotel?,"
+Please note that the hotel staff are not allowed to move the car on behalf of the guest.
+Payment will be accepted in cash, travel check, accommodation voucher, credit card, or
+any vouchers approved by the hotel.",O,18,8
+24,What happens if a guest is unable to pay the bill upon arrival?,"
+Please pay the bill upon arrival or when a request to avail a particular item or service has
+been made.",O,19,8
+25,"What happens if the payment is made on time, but the booked name is different from the staying guest?","
+  If the booked name is different from the staying guest, in cases that the payment is not
+made on the stipulated date, it will be billed directly to the customer who made the
+reservation.",O,20,8
+26,What fees are covered by the hotel?,"
+  Hotel will not pay for online shopping fee, taxi fee, postage stamps, and fee for the
+delivery of baggage.",O,21,8
+27,What happens if a breakfast voucher is partially used?,"
+Refunds will not be given for unused breakfast vouchers.",O,22,8
+28,What type of animals are not allowed in the hotel? ,"
+Unused special offers and discount tickets issued by the hotel will not be refunded.
+Please refrain from bringing in the following items or acts that may cause inconvenience to
+other guests in the hotel.
+Animals and pets such as dogs, cats, and small birds in general (except for guide
+dogs, service dogs, and hearing dogs)
+Explosives and highly sensitive oils that can be easily ignited or any dangerous
+products
+A substance that produces a bad odour or has a strong smell
+Guns and swords without a permit
+Remarkably large amount of luggage and goods
+Other items and behaviours that are prohibited by law:
+Gambling, being offensive to other guests, behaviour that disrupts
+orderliness, or behavior that may cause disgust or annoyance to other
+guests. Entering the hotel in “Geta”(Japanese traditional slippers) & leathered –
+soled sandals , Roller blades and Roller skates
+Moving equipment or using it for purposes other than its intended purpose
+Distribution of advertising materials, sales of goods and solicitation
+Taking in food and drink from outside the hotel
+Use of public bath when drunk or with tattoo
+Taking out of food and drink from breakfast (excluding those that can be
+taken out)",O,23,8
+29," 
+What is the reason for not allowing the use of public bath when drunk or with tattoo? ","
+Unused special offers and discount tickets issued by the hotel will not be refunded.
+Please refrain from bringing in the following items or acts that may cause inconvenience to
+other guests in the hotel.
+Animals and pets such as dogs, cats, and small birds in general (except for guide
+dogs, service dogs, and hearing dogs)
+Explosives and highly sensitive oils that can be easily ignited or any dangerous
+products
+A substance that produces a bad odour or has a strong smell
+Guns and swords without a permit
+Remarkably large amount of luggage and goods
+Other items and behaviours that are prohibited by law:
+Gambling, being offensive to other guests, behaviour that disrupts
+orderliness, or behavior that may cause disgust or annoyance to other
+guests. Entering the hotel in “Geta”(Japanese traditional slippers) & leathered –
+soled sandals , Roller blades and Roller skates
+Moving equipment or using it for purposes other than its intended purpose
+Distribution of advertising materials, sales of goods and solicitation
+Taking in food and drink from outside the hotel
+Use of public bath when drunk or with tattoo
+Taking out of food and drink from breakfast (excluding those that can be
+taken out)",C,23,8
+30," 
+What is the policy regarding taking out food and drink from breakfast?","
+Unused special offers and discount tickets issued by the hotel will not be refunded.
+Please refrain from bringing in the following items or acts that may cause inconvenience to
+other guests in the hotel.
+Animals and pets such as dogs, cats, and small birds in general (except for guide
+dogs, service dogs, and hearing dogs)
+Explosives and highly sensitive oils that can be easily ignited or any dangerous
+products
+A substance that produces a bad odour or has a strong smell
+Guns and swords without a permit
+Remarkably large amount of luggage and goods
+Other items and behaviours that are prohibited by law:
+Gambling, being offensive to other guests, behaviour that disrupts
+orderliness, or behavior that may cause disgust or annoyance to other
+guests. Entering the hotel in “Geta”(Japanese traditional slippers) & leathered –
+soled sandals , Roller blades and Roller skates
+Moving equipment or using it for purposes other than its intended purpose
+Distribution of advertising materials, sales of goods and solicitation
+Taking in food and drink from outside the hotel
+Use of public bath when drunk or with tattoo
+Taking out of food and drink from breakfast (excluding those that can be
+taken out)",C,23,8
+31,Is photographing other hotel guests without their consent allowed in most hotels?,"
+  Taking photographs within hotel premises that may bother or cause
+disturbance to other guests",O,24,8
+32,What is the purpose of Article 19 in the Accommodation Provisions?,"
+  This rule corresponds to the standard provisions of the Civil Code, and each provision of this
+regulation may be changed based on Article 19 of the Accommodation Provisions.",O,25,8
+33,What is the purpose of posting the changed terms on the hotel's website and in guestrooms?,"
+According to this change of rule, the contents of the changed terms, conditions and effective date
+will be posted on the website specified by the hotel and inside the guestroom one month before the
+effective date instead of individual notice and explanation.",O,26,8

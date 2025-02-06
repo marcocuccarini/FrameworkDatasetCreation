@@ -1,0 +1,438 @@
+,question,answer,question_index,answer_index,document_index
+0,What is the purpose of the internal procedure presented by the hotel?,"The Hotel presents this INTERNAL PROCEDURE, which contains the policies, rules
+and regulations that will govern the relationship between the Hotel and its clients.",O,0,9
+1,"Who are the people covered by these regulations? 
+What types of events are being referred to in the text? 
+Who are the people responsible for the organisation and running of events at the hotel?","
+These Regulations shall also be applicable and binding for:
+  Visitors and/or occasional companions of hotel guests.
+  Users of services and facilities open to the general public.
+  Any person who, even occasionally, visits or wanders inside the hotel
+  Attendees of events taking place at the hotel.
+  Contracting parties, organisers and staff involved in the organisation and running
+of events held at the hotel.",O,1,9
+2,What types of spaces are included in the Regulations according to the text?,"
+The Regulations will apply to all spaces and areas of the establishment, be they
+for exclusive or common use, without distinction.",O,2,9
+3,Where can clients access the hotel's regulations?,"
+These Regulations are available to clients at the hotel reception and they may
+consult them whenever they wish. Additionally, these Regulations are available on the
+hotel’s website.",O,3,9
+4,What are the consequences of being unaware of the Regulations mentioned in the text?,"
+Ignorance of these Regulations is no defence for non-compliance, as these
+Regulations are based on current laws and legislation.",O,4,9
+5,What is the condition for these regulations to be changed or updated?,"
+These Regulations will be in continuous and uninterrupted effect until they are
+amended or replaced by another. In case of any doubt, it shall be deemed fully
+satisfactory in all its rules and regulations.",O,5,9
+6,What does the text imply about the scope of its rules and prohibitions?,"
+The rules and prohibitions contained in this Regulations and which should be
+complied with by its intended recipients, should not be understood as exclusive of other
+analogous or similar behaviours not set forth in it, but that clearly emerge from the spirit
+and intent of these Regulations.",O,6,9
+7,"What is the purpose of punishing offenders according to labour, civil or criminal legislation?","
+Infringements of these Regulations, to the extent possible, will be corrected
+immediately and, if appropriate, may be punished in accordance with labour, civil or
+criminal legislation, irrespective of other responsibilities that the offender may incur and
+the appropriate legal action to which they are entitled.",O,7,9
+8,What is the reason for the hotel to cancel a reservation without refund?,"
+The Hotel reserves the right of admission and to cancel the reservation, without
+right to refund, of any client who contravenes these Regulations, as well as the rules of
+living and common sense, or acts in any way disrespectfully to the Hotel facilities or other
+people within it, be they staff or guests of the Hotel.",O,8,9
+9,What are the reasons behind the regulations in the text?,"
+We appreciate your choice to stay with us, as well as your strict observance of our
+Regulations, prepared for your own benefit.",O,9,9
+10,Who is the main contact for guests of the hotel establishment?,"
+In any case, should you require additional information please do not hesitate to
+contact Reception. To this end, we remind you that the Hotel Manager, together with
+the reception staff and, where appropriate, the concierge, are the main contact or
+central relationship for guests of the hotel establishment, and for information and advice
+of the same.",O,10,9
+11,What type of law governs the Internal Regimen Regulation?,"
+The Internal Regimen Regulation is governed by Spanish law.",O,11,9
+12,What is the primary language version of the Regulation that holds legal authority?,"
+This Regulation is available in different languages, but only the text in Spanish is
+the sole legally binding text, and the one that will prevail if there is any difference of
+interpretation or any other nature.",O,12,9
+13,What is the purpose of the magnetic cards in the reception area?,"
+Reception is where the necessary steps are taken for registration and admission,
+and where the magnetic cards are kept to access accommodation.",O,13,9
+14,What is the latest time for check-in?,"
+Check-in takes place from 14:00 and until 20:00 on the day of the client's arrival,
+and Check-out until 12.00 pm on the day of departure.",O,14,9
+15,What is the earliest time a guest can enter the hotel if they arrive before check-in time?,"
+If the guest arrives before Check-in time and the Hotel has rooms available, they
+can enter as early as 7:00.",O,15,9
+16,What are the consequences of not notifying the hotel 24 hours prior to a guest's late arrival?,"
+In the event that, for personal reasons, the guest has to register their arrival after
+20:00, they should notify the hotel 24 hours prior to their arrival.",O,16,9
+17,Is this policy intended to protect the minors or the hotel's liability?,"
+The Hotel will abstain from providing accommodation to minors who arrive alone,
+nor do we accept bookings of rooms or stays by minors.",O,17,9
+18,What is the minimum age for a minor to stay at the hotel without an adult?,"
+However, minors between the ages of 16 to 18 years old may be authorised in
+writing by the father, mother or guardian to stay at the Hotel as long as they are the ones
+to take responsibility of the minor and assume the payment of the bill as appropriate. In
+the case of minors under the age of 16 years, they must also always be accompanied
+by the father, mother or guardian.",O,18,9
+19,What type of identification documents are required for registration?,"
+The person or persons who wish to make use of the accommodation units,
+common facilities and, where appropriate, complementary services offered by the
+Hotel, must present their identification documents on registration and sign in to the Hotel
+Register of the establishment.",O,19,9
+20,What type of identification documents are typically required for group members?,"
+When guests arrive as a pre-booked group (group bookings are considered
+reservations of 10 or more rooms), their representative will hand over the lists together
+with the identification documents of the group members.",O,20,9
+21,What types of identification are accepted for foreigners from EU countries and the specified countries?,"
+Valid identification in Spain are passports, DNI and Driver's License. If you are a
+foreigner you can register by presenting a Passport or Identity Card if you come from an
+EU country or any of the following countries:",O,21,9
+22,Which of the listed countries is not an independent country but a principality?,"
+  Andorra, Iceland, Switzerland, Norway, Malta, Monaco or San Marino.
+You can also register with a current Spanish Residency Permit if you are a foreign
+resident in Spain.",O,22,9
+23,What is the purpose of the registration and entry records for Travellers in a Hotel Establishment?,"
+This rule is mandatory in accordance with the Order of the Ministry of the Interior
+of the Government of Spain 1922/2.003 of 3 July, which requires registration and entry
+records for Travellers in a Hotel Establishment, Royal Decree 933/2021 of October 26 and
+under the provisions of article 12.1 of Organic Law 1/1992, of February 21, on the
+Protection of Citizen Security.",O,23,9
+24,What is the purpose of the individual registration sheet mentioned in the text?,"
+In compliance with the above, all guests, both individuals and guests, must have
+an individual registration sheet.",O,24,9
+25,What is the minimum age requirement for a person to sign the registration sheet?,"
+The registration sheet must be personally signed by all travellers over the age of
+14 years.",O,25,9
+26,What are the consequences for a guest who fails to comply with the hotel's registration requirement?,"
+The accommodation is non-transferable, meaning that the Hotel will deny
+accommodation to any guest who does not comply with this registration requirement
+and has the power to demand, if it deems it appropriate, the identification of the
+applicant and the people accompanying them in the hotel. Any person not registered
+in the police register are also prohibited from entering the Hotel, unless with the direct
+permission of the Management.",O,26,9
+27,Who is responsible for ensuring the registration card is filled out in full?,"
+The Hotel Management is not responsible for any false or incomplete information
+that the guest may provide when filling out the registration card, whose details should be
+filled out by the user in full, or by the Hotel based on the details that appear on the
+identification documents provided to such effects by the client.",O,27,9
+28,What is the purpose of the hotel communicating the identification data to the authorities?,"
+In compliance with current legislations, the identification data supplied shall be
+communicated to the authorities by the Hotel.",O,28,9
+29,What information is included on the admission document?,"
+This establishment, once a person or persons have been registered, will prepare
+an admission document stating the name of the client in order to formalise the admission
+(featuring a person, the commercial name of the establishment, the tourist classification,
+the identification of the allocated accommodation, price per day, the category and
+price of complementary services provided, and dates of check-in and check-out).",O,29,9
+30,What type of document is typically required as proof of a user's condition?,"
+Users must provide proof of their condition, producing the admission document,
+when required.",O,30,9
+31,What is the purpose of signing the admission sheet?,"
+The admission sheet provides proof of the tourist accommodation contract and
+will serve as proof for administrative purposes, and therefore must be signed by the
+concerned party to formalise their admission.",O,31,9
+32,What is the purpose of retaining the original signed document by the establishment?,"
+The original signed document shall remain in the possession of the establishment,
+who will retain it for the time stipulated by law to be made available for tourist inspection,
+providing a copy to the guest who signed the same.",O,32,9
+33,What information does the document require the client to confirm as true?,"
+By signing the document, the client confirms that all the data provided are true
+and accepts the terms and conditions expressed in the document.",O,33,9
+34,What are the main rules that the Client is expected to observe in the establishment?,"
+Signing the document also assumes that the Client expressly accepts these
+Regulations, its rights and obligations, and shall be bound to observe the rules contained
+in the same and those dictated by Management on security, coexistence and hygiene
+for the proper use of the establishment, its facilities and the equipment of the Hotel.",O,34,9
+35,What are the limitations contained in the legislation and Regulations for users to access and stay in the establishment?,"
+Users may freely access the establishment and stay in the same, within the
+limitations contained in legislation and in these Regulations.",O,35,9
+36,What is the purpose of providing information to users before they contract services?,"
+Users have the right to receive full and accurate information, and for such
+information to be provided prior to the contracting of services offered.",O,36,9
+37,What are the main rights of hotel guests according to the text? ,"
+In addition, guests have the right to security, privacy and total peace-of-mind
+during their stay, in accordance with the agreed terms and conditions. Invoices for any
+services contracted directly to the hotel will be issued to in accordance with the current
+regulations of the Data Protection Act concerning maintaining the confidentiality of any
+personal information. In the event of a guest wishing to make a complaint, forms
+provided by the relevant authoritative department(s) from the corresponding
+Autonomous Community (region) must be filled out by the guest and handed in at the
+hotel reception.",O,37,9
+38," 
+How do hotel guests make a complaint in accordance with the regulations?","
+In addition, guests have the right to security, privacy and total peace-of-mind
+during their stay, in accordance with the agreed terms and conditions. Invoices for any
+services contracted directly to the hotel will be issued to in accordance with the current
+regulations of the Data Protection Act concerning maintaining the confidentiality of any
+personal information. In the event of a guest wishing to make a complaint, forms
+provided by the relevant authoritative department(s) from the corresponding
+Autonomous Community (region) must be filled out by the guest and handed in at the
+hotel reception.",C,37,9
+39,Does submitting a claim or complaint relieve a client of their obligations under these Regulations?,"
+The submission of any claim or complaint does not exempt the client from the
+observance of these Regulations or the payment of services.",O,38,9
+40,What does the hotel's responsibility exclude according to the provided text?,"
+The hotel is not responsible for the price, nor the use of tools, utensils and other
+services provided outside the hotel establishment, nor the behaviour of any outside staff,
+unless expressly reflected in their conditions and rates.",O,39,9
+41,What types of complementary services are offered by the Hotel?,"
+Rates with the prices and conditions of the different modes of accommodation,
+catering, bars, safe rental, and complementary services offered by the Hotel are detailed
+in reception for users who request them.",O,40,9
+42,Is this a statement from a hotel or a restaurant?,"
+It is not possible to reserve services of the establishment or accommodation units
+against the stipulated price.",O,41,9
+43,What type of services are offered by entities outside of this establishment?,"
+Complementary services that are offered and are provided in this establishment
+by other persons or entities, the detail of their scheduled times, their prices and conditions
+of use, also found at reception, will be formalised in their corresponding documents and
+settled in accordance with the conditions agreed.",O,42,9
+44,What is the responsibility of the entities providing complementary services in a hotel?,"
+Legal entities or individuals who, on their own basis, provide complementary
+services in different areas of the hotel, are responsible for their own staff and their
+behaviour, operation, maintenance, prices and everything inherent in their own services.
+Each of the different units clearly identifies the holder of the same.",O,43,9
+45,What kind of information can be found in the directories about the evacuation plan in case of emergency?,"
+For all of the services and activities, where appropriate, you will find a summary of
+information in directories, which include information about the evacuation plan in case
+of emergency, accommodation prices, menus with their prices, and communication of
+free services, such as Wi-Fi.",O,44,9
+46,What is the condition for storing valuables in the Hotel's safe?,"
+In any case, the Hotel can offer to their clients, at no additional cost, extra services
+such as tourist information, wake up service, storage of valuables in the Hotel's general
+safe, provided that their contents is declared and signed for by the customer, storage of
+baggage, and taxi calling service.",O,45,9
+47,What types of services can the hotel manage beyond its establishment?,"
+The Hotel is also able to manage certain services beyond the establishment, such
+as car rental, excursions, restaurants, and other services related to the stay.",O,46,9
+48,What are the possible reasons for a hotel to not admit users outside of the specified hours? ,"
+The Hotel may vary the timetables for different services of consumption, use and
+enjoyment, throughout the seasons, depending on the seasonality, and reserves the right
+not to admit users outside these hours, or when the maximum authorised capacity is
+exceeded or admission is limited, thereby damaging the work schedules of such services.
+Guests’ permission will be sought prior to taking any messages, phone calls,
+packages or anything addressed to them on their behalf. In the event that the guest
+cannot be located within the hotel, staff will ensure that the message or package is
+verified with the guest upon their return and delivered to them appropriately.",O,47,9
+49,"
+How will a hotel handle a guest's message or package if the guest cannot be located within the hotel?","
+The Hotel may vary the timetables for different services of consumption, use and
+enjoyment, throughout the seasons, depending on the seasonality, and reserves the right
+not to admit users outside these hours, or when the maximum authorised capacity is
+exceeded or admission is limited, thereby damaging the work schedules of such services.
+Guests’ permission will be sought prior to taking any messages, phone calls,
+packages or anything addressed to them on their behalf. In the event that the guest
+cannot be located within the hotel, staff will ensure that the message or package is
+verified with the guest upon their return and delivered to them appropriately.",C,47,9
+50,What types of activities are not allowed in the hotel rooms and common spaces without permission? ,"
+The rooms and common spaces of the hotel may not be used for uses other than
+accommodation and/or hired services, either by the guest or his/her companions, or by
+third parties. Consequently, the aforementioned rooms and/or common spaces may not
+be used for activities such as conducting interviews, filming, taking pictures for
+promotional activities, photo sessions, etc., unless previously and expressly authorized by
+the Management of the establishment and always complying with the rest of Internal
+Regulations, the conditions set by the aforementioned Management and the regulations
+that apply to the activity in question.",O,48,9
+51,"
+What is the process for obtaining permission to use the hotel rooms and common spaces for specific activities?","
+The rooms and common spaces of the hotel may not be used for uses other than
+accommodation and/or hired services, either by the guest or his/her companions, or by
+third parties. Consequently, the aforementioned rooms and/or common spaces may not
+be used for activities such as conducting interviews, filming, taking pictures for
+promotional activities, photo sessions, etc., unless previously and expressly authorized by
+the Management of the establishment and always complying with the rest of Internal
+Regulations, the conditions set by the aforementioned Management and the regulations
+that apply to the activity in question.",C,48,9
+52,What is the basis for calculating accommodation rates according to the given information?,"
+The billing of accommodation rates will be computed per day and in accordance
+with the number of overnight stays.",O,49,9
+53,What is the minimum billing period for accommodation at the Hotel?,"
+The minimum billing for accommodation will be at the rate of one overnight or
+day, with the understanding that this ends at 12:00 the day after the date of entry.
+Payment methods accepted by the Hotel are the following: Cash, Debit cards
+(Maestro) and Credit cards (Master Card, Visa, Amex, American Express and Diners).",O,50,9
+54,What forms of payment are accepted instead of personal cheques?,"
+Personal cheques are not accepted.",O,51,9
+55,What are the accepted payment methods in this context?,"
+When payment is made in cash, this must be done in euros.",O,52,9
+56,What is the maximum amount of euros that can be used for payment?,"
+The payment may not exceed the amount of 1,000 euros and, given that the rights
+must be exercised in accordance with the requirements of good faith, bills must be used
+that are appropriate to the amount to pay, meaning that the Hotel reserves the right to
+refuse high denomination bills if the amount to be paid is much lower.",O,53,9
+57,What is the minimum amount of euros that can be used for payment?,"
+Payments with more than 50 coins of euros will also not be accepted.",O,54,9
+58,What are the consequences of not paying the contracted services as agreed upon?,"
+Users are obligated to pay the amount of contracted services when presented
+with the bill or in accordance with the agreed terms.",O,55,9
+59,What happens if a guest consumes food from the minibar but doesn't see the price list?,"
+Any food or other goods found in the Hotel room (for example the contents of the
+minibar, towel, bathrobe), which you consume or take with you when leaving the room
+will be charged the equivalent amount as shown on the price list available in each room
+or in the Hotel reception.",O,56,9
+60,What are the consequences if a Client is found to have consumed or taken food or goods from their room without authorization?,"
+In the event that a Client leaves their room and said food or goods are not found
+in the room, it shall be deemed that these were consumed or taken by the client.",O,57,9
+61,Does the hotel have to present the bill at the end of the stay if the total amount is less than 600 euros?,"
+The bill can be presented by the Hotel before the end of the stay if during this
+period the services enjoyed (either accommodation, extras or both) meet or exceed the
+sum of 600 euros.",O,58,9
+62,Can the client be required to pay for services outside the accommodation even if they had previously agreed to pay for them?,"
+The establishment may require its clients, at any time and after the presentation
+of the bill and its receipt, to pay for of services provided outside the accommodation,
+even when the payment for this had been agreed in advance.",O,59,9
+63,What is the consequence for a client who leaves the hotel before the end of their contracted stay?,"
+The departure of the client before the end of the contracted stay shall not exempt
+the client from paying the full amount for all reserved days and contracted services.
+If a client intends to leave the establishment with a wholly or partially unpaid bill,
+the Hotel will be entitled to request the assistance of the authorities.",O,60,9
+64,What is the purpose of requesting an advance of payment by credit card according to the text?,"
+The Hotel can request advance of payment by credit card for the contracted
+services, in accordance with the applicable law, of both the full amount of the
+reservation including taxes and tourist tax that may apply, as well as for extras.",O,61,9
+65,What constitutes negligence in the context of the guarantee?,"
+This guarantee may be extended to damages or malfunctions that occur in the
+fixtures, furniture or other elements of the establishment due to negligence or misuse.",O,62,9
+66,What is the purpose of asking a client for a credit card number by the hotel?,"
+To such effects, the Hotel can ask the client on arrival, or when making their
+reservation, for a credit card number where, in the case of non-payment of a bill, they
+can be charged for the same.",O,63,9
+67,What types of extra services may be subject to additional payment?,"
+Such a request may be made even for accommodation that is pre-paid or
+comped, to ensure payment for extra services that may be used, as well as to cover
+damages and malfunctions.",O,64,9
+68,What is the purpose of the breakage deposit mentioned in the text?,"
+The Hotel reserves the right, in the event of any damages, malfunction or theft in
+the room or any other area of the hotel by the customer, to use the breakage deposit
+and/or claim this compensation.",O,65,9
+69,Is this a common practice in the hotel industry?,"
+The Hotel will also be able to use the client’s credit card number to charge or
+preauthorise the amount of the first night contracted, even days before the client's
+arrival, in order to verify the validity of the card.",O,66,9
+70,What is the amount of the security deposit required if a card cannot be provided?,"
+If a card cannot be provided, prepayment for the stay and a security deposit of
+500 euros will be required, as well as upfront payment for any extra services requested.
+Hotel rooms should be used based on the number of nights booked.",O,67,9
+71,What time of day is the occupation of an accommodation unit officially considered to start?,"
+Occupation of an accommodation unit begins at 12:00 noon on the first day of
+the contracted period and ends at 12:00 noon on the day indicated as the date of
+departure.",O,68,9
+72,Can availability of rooms be guaranteed on dates of maximum occupancy?,"
+However, on dates of maximum occupancy, when there is a higher number of
+check-ins and check-outs, it is possible that not all rooms will be available at this schedule
+due to reasons of availability and cleaning times, which can lead to a delay of up to four
+hours in making the accommodation unit available to the user.",O,69,9
+73,What constitutes exceptional circumstances that could delay room availability?,"
+Availability may also be delayed in the case of exceptional circumstances which
+prevent, for reasons beyond the Hotel’s capabilities, having the room for the
+corresponding guest at the time fixed for the beginning of the occupation under the
+normal rules of occupation.",O,70,9
+74,What happens if a guest fails to communicate their travel plans and arrives after 20:00 hours on the day of their arrival?,"
+We ask that the guest communicates their time of arrival and travel plans to
+enable the Hotel to prepare, and also remember that if you do not arrive at the hotel by
+20:00 hours (local time) on the day of your arrival, without prior communication from the
+guest, the Hotel will consider the reservation as a “no show” and it will be fully cancelled
+automatically, charging 100% or the outstanding amount of the reservation.",O,71,9
+75,What is the minimum requirement for the client to keep their reservation?,"
+However, the reservation will be kept as long as the client has communicated their
+arrival before the time mentioned above.",O,72,9
+76,What is the minimum number of persons required for a group to have a departure time set by the establishment?,"
+In the case of groups of 20 or more persons, the establishment may set the
+departure time from 10 in the morning.",O,73,9
+77,Can you prolong your stay beyond the initial departure date?,"
+For possible changes, both in occupation as well as an extension of the time
+indicated, please ask at reception, keeping in mind that you must immediately inform
+Hotel staff should you want to prolong your stay, and always before 12 noon of the
+departure date.",O,74,9
+78,What is the condition for the Hotel to honour a guest's request?,"
+The Hotel will honour your request as long as availability permits, duly informing the
+guest who requested it, and in the case of agreement between the parties, they may
+agree to a new occupancy status of the accommodation units, which should be
+reflected in the admission document.",O,75,9
+79,What is the consequence of staying beyond the agreed time of occupation?,"
+Any extension of the time of occupation to that described, without prior
+agreement, will result in the obligation to pay for one day more.",O,76,9
+80,What could happen to a client who fails to comply with the contracted number of days of stay?,"
+Notwithstanding the above, the client will not be able to extend, without
+agreement from the Hotel, the contracted number of days of stay, due to the serious
+damage that this could cause for other clients with reservations. The Hotel staff has the
+power to request help from the authority to evict clients who fail to comply with the
+above.",O,77,9
+81,What is the hotel's policy if a client leaves the room before the scheduled check-out time?,"
+In the event that the client leaves the room on the day of departure prior to the
+time set for the Check-Out, there will be no refund for the total amount of the stay. If the
+client reduces, in whole or in part, the number of guests on the reservation, it is the Hotel's
+decision whether or not to grant a refund, though in the case that the room has been
+indicated as non-refundable or similar, there will be a charge of the full amount of the
+booking.",O,78,9
+82,What is the maximum amount of time a guest can be absent before the hotel considers the contract suspended or terminated?,"
+When guests are absent for more than seventy-two hours without prior notice, the
+Hotel may deem the contract of accommodation to be suspended or terminated, and
+proceed to collect the luggage in accordance with article 18 of these Regulations,
+except in the case in which the actual value of the guest's belongings does not
+guarantee the amount of the bill.",O,79,9
+83,How long must a guest be absent before the hotel can terminate or suspend their stay?,"
+Under these circumstances the Hotel may terminate or suspend the stay with the
+absence of the guest for more than twenty-four hours. In the event of the death of the
+occupant of a room, their heirs or representatives will be responsible for paying the
+resulting costs, including if necessary the redecoration and disinfection of the room and
+the replacement of linens and equipment.",O,80,9
+84,What is the reason for not permitting guests who exceed the room capacity to stay?,"
+As a general rule, persons who exceed the contracted room capacity are not
+permitted to stay.",O,81,9
+85,What is the maximum number of people allowed in a room booked as a triple?,"
+Consequently, two people will not be permitted to stay in a double room that has
+been contracted as a single. Similarly, no more than two people will be allowed to stay
+in a double room or suite, nor more than three in a room booked as a triple.",O,82,9
+86,What is the maximum number of people allowed in a room?,"
+For safety reasons a maximum of four people are allowed to a room, or where
+appropriate, the maximum number according to the room format and type of
+reservation.",O,83,9
+87,What is the maximum number of persons the hotel is willing to accommodate in a room?,"
+Otherwise, the Hotel reserves the right to charge the fixed rate for the actual
+number of persons using the room, and at the same time put an immediate end to the
+client’s stay.",O,84,9
+88,Is a baby cot available for a room with an infant of 0 to 2 years old?,"
+Guests staying with infants of 0 to 2 years old may request, subject to availability,
+a baby cot at no additional cost. The maximum number of baby cots in a room is one.",O,85,9
+89,Can bedside cots be confirmed by the accommodation on the same day as the accommodation request?,"
+Bedside cots are available on request and must be confirmed by the accommodation.",O,86,9
+90,"Is the use of an additional bed free of charge? 
+","
+One child aged 2 or over or one adult can stay in an extra bed. The use of an
+additional or rollaway bed will carry an additional cost and be available only in double
+rooms, and always at the request of the individual user. In the event that the bed has not
+been requested in advance, the Hotel reserves the right to request an extra reservation
+in the event that the establishment does not have the requested extra bed. Such
+additional bed can only be occupied by one person, one being the maximum number
+of extra beds in the room.",O,87,9
+91," Who is allowed to stay in an extra bed according to the hotel's policy? 
+","
+One child aged 2 or over or one adult can stay in an extra bed. The use of an
+additional or rollaway bed will carry an additional cost and be available only in double
+rooms, and always at the request of the individual user. In the event that the bed has not
+been requested in advance, the Hotel reserves the right to request an extra reservation
+in the event that the establishment does not have the requested extra bed. Such
+additional bed can only be occupied by one person, one being the maximum number
+of extra beds in the room.",C,87,9
+92, What is the maximum number of extra beds allowed in a room?,"
+One child aged 2 or over or one adult can stay in an extra bed. The use of an
+additional or rollaway bed will carry an additional cost and be available only in double
+rooms, and always at the request of the individual user. In the event that the bed has not
+been requested in advance, the Hotel reserves the right to request an extra reservation
+in the event that the establishment does not have the requested extra bed. Such
+additional bed can only be occupied by one person, one being the maximum number
+of extra beds in the room.",C,87,9
+93,Is it a requirement for hotels to obtain prior consent from guests before allowing visitors to stay in their rooms?,"
+No person has the right to give accommodation to another without the prior
+consent of the hotel, and if this is given, their movements must be recorded in the Hotel
+Register.",O,88,9
+94,Can occasional visitors be allowed access to the rooms at the Hotel?,"
+The Hotel reserves the right to admit occasional visitors and under no
+circumstances will they be allowed access to the rooms. If the user wishes to receive visits,
+the Hotel has spaces available for this purpose.",O,89,9
+95,What are the consequences if a hotel guest fails to comply with hotel management rules?,"
+Should a user fail to comply, the Hotel Management reserves the right to order the
+immediate departure of the visitor.",O,90,9

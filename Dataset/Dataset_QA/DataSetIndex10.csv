@@ -1,0 +1,241 @@
+,question,answer,question_index,answer_index,document_index
+0,What is the condition under which an Accommodation Agreement does not become effective?,"Accommodation Agreements become effective when the Hotel approves the request described in Article 2 above. However, this
+will not apply if it is proved that the Hotel did not approve the request.",O,0,10
+1,What is the payment method specified by the Hotel for Guests to pay the accommodation fee?,"
+When Accommodation Agreements become effective as described in Paragraph 1 above, Guests, by the payment method Hotel
+specifies, shall pay the Hotel an amount not exceeding the basic accommodation fee for the requested dates of stay by the date
+Hotel specifies.",O,1,10
+2,What are the conditions described in Articles 7 and 19 below that may result in the application of the request fee? ,"
+Firstly, the request fee described in Paragraph 2 above will be applied to final accommodation fee that Guests are required to pay.
+Secondly, in the event of any of the conditions described in Articles 7 and 19 below, such request fee will be applied to cancellation
+fee and then to compensation. Thirdly, if there is any balance remaining, it will be returned to Guests’ credit card when Guests
+made payments by credit card and to bank accounts that Guests designate when Guests made payments by other means.",O,2,10
+3,"
+How will the remaining balance after applying the request fee be handled if Guests made payments by other means than credit card?","
+Firstly, the request fee described in Paragraph 2 above will be applied to final accommodation fee that Guests are required to pay.
+Secondly, in the event of any of the conditions described in Articles 7 and 19 below, such request fee will be applied to cancellation
+fee and then to compensation. Thirdly, if there is any balance remaining, it will be returned to Guests’ credit card when Guests
+made payments by credit card and to bank accounts that Guests designate when Guests made payments by other means.",C,2,10
+4,What happens to a guest's reservation if they do not pay the request fee on time?,"
+If Guests do not pay the request fee described and as stipulated in Paragraph 2 above, by the payment due date specified by the
+Hotel, their reservation becomes immediately null and void, provided that the Hotel has notified them of the payment due date in
+advance.",O,3,10
+5,What are the conditions under which the hotel may not require payment of the request fee?,"
+Notwithstanding Article 3 Paragraph 2 above, after entering Accommodation Agreements, the Hotel may in some cases offer a
+special agreement in which payment of the request fee will not be required.",O,4,10
+6,What is the purpose of the payment due date in the Accommodation Agreements?,"
+If the Hotel did not request payment of the request fee described in Article 3 Paragraph 2 above when accepting the request for
+Accommodation Agreements, or did not specify a payment due date, Accommodation Agreements will be treated as a special
+agreement as described in Paragraph 1 above.",O,5,10
+7,Is the hotel's written consent required for guests to allow others to use their facilities?,"
+Guests will not let others stay at the Hotel, assign or resale Accommodation Agreements, or let others use Hotel’s facilities for
+Guests only without the Hotel's prior written consent.",O,6,10
+8,What is the purpose of the Hotel contacting the Guests before the date of stay?,"
+Before the date of stay, the Hotel may contact Guests through the contact information provided based on Article 2 Paragraph 1
+above for confirmation of bookings, etc. In this case, Guests will respond unless there are unavoidable circumstances.",O,7,10
+9,What are the cases in which the Hotel may decline to enter into Accommodation Agreements?,"
+Special Agreements in Which Payment of the Request Fee is Not Required
+In any of the following cases, the Hotel may decline to enter into Accommodation Agreements.",O,8,10
+10,What are the requirements for making a valid accommodation request according to the given Terms and Conditions?,"
+  The request for accommodation is not made in accordance with this Terms and Conditions.",O,9,10
+11,Is there a waiting list for rooms at the hotel?,"
+The Hotel is fully booked and there are no rooms available.",O,10,10
+12,Can a person with a contagious skin condition be denied hotel accommodation?,"
+  The person intending to stay at the Hotel is deemed to have violated applicable laws, public order or public morals.
+  The person intending to stay at the Hotel is clearly infected with an infectious disease.",O,11,10
+13,What consequences might the hotel impose on the person if their demands are not met?,"
+  The person makes demands on the Hotel exceeding the reasonable extent.",O,12,10
+14,"What is considered an ""Act of God"" in the given context?","
+  Accommodation cannot be provided due to Acts of God, failure of facilities or other unavoidable circumstances.",O,13,10
+15,"What is the purpose of the given text? 
+What are the characteristics of a Violent Organization? 
+What type of organizations are affiliated with a Violent Organization? 
+Who is considered a related person in the context of the text? 
+What is considered a significant disturbance of other guests? 
+What is the reasonable extent of demands on the Hotel or its employees? 
+What happens if a person accepts the use of their name to a Violent Organization?","
+  Any of the following items apply to the person intending to stay at the Hotel.
+Such person is a member of or in any way affiliated with a violent organization, an enterprise or organization affiliated
+with a violent organization, an organization that conducts radical action or other antisocial organization (hereinafter
+collectively referred to as a “Violent Organization”).
+Such person is a member of a company or other organization whose operations are controlled by a Violent Organization
+or affiliate thereof.
+Such person is a legal entity which has an officer (director, executive officer, or any other equivalent person), employee,
+related person, etc. related to a Violent Organization.
+Such person accepts the use of its name to a Violent Organization.
+Such person commits significant disturbance of other guests of the Hotel, by words or action.
+Such person makes demands by violence, or otherwise makes demands on the Hotel or its employees exceeding the
+reasonable extent.",O,14,10
+16,What are the consequences of canceling an Accommodation Agreement according to the given text?,"
+Guests may cancel Accommodation Agreements at any time by notifying the Hotel.",O,15,10
+17,What are the reasons for which guests are not liable for payment of a cancellation fee? ,"
+If Guests cancel Accommodation Agreements, in whole or in part, for reasons due to Guests, (unless the Hotel requested a payment
+of an accommodation fee specifying a payment date as stipulated in Article 3 Paragraph 2 above, and the Guests cancelled
+Accommodation Agreements before such payment), Guests shall be liable for payment of a cancellation fee as specified in cancellation
+policy. However, in the event of a special agreement as described in Article 4 Paragraph 1 above, Guests shall be liable for payment of
+such cancellation fee. However, provided only if the Hotel notifies, when entering into a special agreement, Guests their duty to pay the
+cancellation fee.",O,16,10
+18,"
+What is the condition under which guests are liable for payment of a cancellation fee even if they have a special agreement?","
+If Guests cancel Accommodation Agreements, in whole or in part, for reasons due to Guests, (unless the Hotel requested a payment
+of an accommodation fee specifying a payment date as stipulated in Article 3 Paragraph 2 above, and the Guests cancelled
+Accommodation Agreements before such payment), Guests shall be liable for payment of a cancellation fee as specified in cancellation
+policy. However, in the event of a special agreement as described in Article 4 Paragraph 1 above, Guests shall be liable for payment of
+such cancellation fee. However, provided only if the Hotel notifies, when entering into a special agreement, Guests their duty to pay the
+cancellation fee.",C,16,10
+19,What are the consequences for guests who fail to arrive at the hotel by the specified time without prior notification?,"
+If Guests do not arrive at the Hotel by 8:00 pm on the first day of reservation (or within two hours of the expected arrival time
+notified by Guests in advance) without notifying the Hotel, such Guests’ reservation may be deemed to be cancelled.",O,17,10
+20,Is a 16-year-old high school student allowed to stay at the hotel alone? ,"
+The person intending to stay at the Hotel is a minor. However, the same will not apply if such person is 15 years of age or
+older (unless such person is a junior high school student) and is either accompanied by or has permission by a person with
+parental authority or a guardian according to the categories below.
+Persons 18 years of age (except high school students and under)
+Persons 15 to 17 years of age (except junior high school students and under)",O,18,10
+21,"
+What is the minimum age for a junior high school student to be allowed to stay at the hotel alone?","
+The person intending to stay at the Hotel is a minor. However, the same will not apply if such person is 15 years of age or
+older (unless such person is a junior high school student) and is either accompanied by or has permission by a person with
+parental authority or a guardian according to the categories below.
+Persons 18 years of age (except high school students and under)
+Persons 15 to 17 years of age (except junior high school students and under)",C,18,10
+22,"What are the main reasons for the Hotel to cancel an Accommodation Agreement? 
+What is considered a violation of public morals? 
+Can the Hotel cancel an Agreement due to a Guest's infectious disease? 
+What is considered an Act of God? 
+Can the Hotel cancel an Agreement if a Guest demands something unreasonable? 
+What is considered a mischievous use of fire extinguishing equipment? 
+Can the Hotel cancel an Agreement if a Guest is affiliated with a Violent Organization? 
+What is considered a significant disturbance of other guests? 
+Can the Hotel cancel an Agreement if a Guest uses violence or threats against the Hotel or its employees? 
+What are the consequences for a Guest who accepts the use of their name by a Violent Organization? 
+Can the Hotel cancel an Agreement if a Guest's company is controlled by a Violent Organization? 
+What is the Hotel's policy on smoking in guest rooms? 
+Can the Hotel cancel an Agreement if it is unable to provide accommodation due to force majeure events?","
+The Hotel may cancel Accommodation Agreements in the event of any of the following.
+  The person intending to stay at the Hotel is deemed to violate or has violated applicable laws, public order or public morals
+during the stay.
+The person intending to stay at the Hotel is clearly infected with an infectious disease.
+  The person makes demands exceeding the reasonable extent with respect to the stay.
+  The Hotel is unable to provide accommodation due to Acts of God and other force majeure events.
+  In the case of smoking in guest rooms, mischievous use of fire extinguishing equipment, or other actions prohibited by the Hotel’s Terms of Use.
+  Any of the following items apply to Guests.
+Such Guests are members of or in any way affiliated with a Violent Organization.
+Such Guests are members of a company or other organization whose operations are controlled by a Violent Organization
+or affiliate thereof.
+Such Guests are members of a legal entity which has an officer (director, executive officer, or any other equivalent
+person), employee, related person, etc. related to a Violent Organization.
+Such Guests accept the use of their names to a Violent Organization.
+Such Guests commit significant disturbance of other guests of the Hotel, by words or action.
+Such Guests make demands by violence or threat of violence against, or otherwise make demands on the Hotel or its
+employees exceeding the reasonable extent.",O,19,10
+23,What happens to the accommodation services that have already been provided by the hotel?,"
+If the Hotel cancels Accommodation Agreements as described in Paragraph 1 above, the Hotel shall not charge the Guest for any
+accommodation services not yet provided.",O,20,10
+24,What information will be collected from guests who check out on their last day of stay at the hotel?,"
+Guests shall register the following information when checking in at the Hotel on the first day of their stay.
+ Guests’ name, age, sex, address and occupation",O,21,10
+25,What is the purpose of requiring a copy of a passport from non-Japanese guests?,"
+If Guests are not Japanese citizens, their nationality, passport number, point and date of entry to Japan, and a copy of a
+passport.",O,22,10
+26,"What does ""Other items as specified by the Hotel"" refer to?","
+ Other items as specified by the Hotel",O,23,10
+27,What type of payment methods are allowed for guests according to the text?,"
+If Guests choose to pay the fees described in Article 13 below by means other than cash, such as accommodation certificates or credit
+cards, it shall be indicated at the time of registration described in Paragraph 1 above.",O,24,10
+28,What are the exceptions to the rule of allocated rooms usage?,"
+The Guests are only able to use the allocated rooms within the time Hotel specifies, unless otherwise stipulated as an accommodation
+plan. In the case of a continuous stay of two or more days, Guests may use the rooms throughout the day on all days except the date
+of arrival and departure.",O,25,10
+29,What additional fees are specified by the Hotel for using the rooms outside the hours described?,"
+Notwithstanding Paragraph 1 above, the Hotel may permit the use of the rooms outside the hours described in Paragraph 1 above. In
+such cases, Guests will pay additional fees specified by the Hotel.",O,26,10
+30,What are the main rules that guests are required to follow during their stay?,"
+During their stay, Guests shall comply at all times with the Hotel’s Terms of Use (including and not limited to guidance, warnings,
+information, etc.), as posted in the Hotel’s premises.",O,27,10
+31,What type of information will be shown in the notice boards and floor guides? ,"
+The hours of operation of main Hotel facilities will be shown in notice boards, and floor and facility guides posted in each room.
+The hours listed in Paragraph 1 above are subject to change when necessary and under unavoidable circumstances. In this case, the
+Hotel will take appropriate measures to notify thereof.",O,28,10
+32,"
+How will the Hotel inform guests of any changes to the hours of operation?","
+The hours of operation of main Hotel facilities will be shown in notice boards, and floor and facility guides posted in each room.
+The hours listed in Paragraph 1 above are subject to change when necessary and under unavoidable circumstances. In this case, the
+Hotel will take appropriate measures to notify thereof.",C,28,10
+33,What information is provided in Table 1 regarding accommodation fees?,"
+Breakdown and calculation of the accommodation fees, etc. payable by the Guests are provided in Table 1.",O,29,10
+34,What are the accepted payment methods for accommodation fees at the Hotel? ,"
+Guests will pay the accommodation fees, etc. as described in Paragraph 1 above in cash, or otherwise by accommodation certificates,
+credit cards, or other equivalent forms accepted by the Hotel, when checking in at the Hotel or when the Hotel charges the bill.
+After the Hotel provides Guests with access to rooms, even if they choose not to stay in such rooms, the Hotel shall nonetheless
+charge the accommodation fee to Guests.",O,30,10
+35,"
+Can a Guest avoid paying the accommodation fee if they choose not to stay in the room provided?","
+Guests will pay the accommodation fees, etc. as described in Paragraph 1 above in cash, or otherwise by accommodation certificates,
+credit cards, or other equivalent forms accepted by the Hotel, when checking in at the Hotel or when the Hotel charges the bill.
+After the Hotel provides Guests with access to rooms, even if they choose not to stay in such rooms, the Hotel shall nonetheless
+charge the accommodation fee to Guests.",C,30,10
+36,What are the circumstances under which the hotel is not liable to compensate guests for damage?,"
+If the Hotel caused damage to Guests due to Accommodation Agreements, or performance or nonperformance thereof, the Hotel shall
+compensate Guests for such damage. However, the same will not apply if such damage is due to reasons for which the Hotel is not
+liable.",O,31,10
+37,What are the original conditions that the Hotel must try to maintain when providing alternative accommodation facilities?,"
+If the Hotel cannot provide Guests with the contracted rooms, the Hotel shall obtain their understanding and arrange other
+accommodation facilities to provide rooms as close as possible to the originally agreed conditions.",O,32,10
+38,What is the condition under which the hotel will not pay compensation to the guest?,"
+If the Hotel is unable to arrange the provision of alternative accommodations as described in Paragraph 1 above, the Hotel shall pay
+Guests compensation equivalent to the cancellation fee as damages. However, the same will not apply if Guests’ damage is due to
+reasons which the Hotel is not liable.",O,33,10
+39,What is the maximum compensation the hotel will pay if a guest's valuables are damaged and they didn't indicate their value?,"
+Generally, the Hotel will not take care of Guests’ cash, valuables or other goods, but if Hotel takes care of such goods due to special
+occasions and such goods are damaged, except in the case of acts of God or force majeure, the Hotel shall compensate Guests for
+such damage. However, if Guests have not indicated the value of such goods when asked to do so by the Hotel, such compensation
+shall be limited to 150,000 yen.",O,34,10
+40,What is the maximum compensation the hotel will provide if a guest has not indicated the value of their damaged goods?,"
+In the event of damage to any cash, valuables or other goods brought into the Hotel by Guests which the Hotel did not receive, if such
+damage is due to reasons which the Hotel is liable, whether by intention or negligence, the Hotel shall compensate Guests for such
+damage. However, if Guests have not indicated the value of such goods when asked to do so by the Hotel, such compensation shall be
+limited to 150,000 yen.",O,35,10
+41,Does the Hotel have any responsibility for storing a guest's luggage if it arrives before the guest themselves?,"
+If the Guests’ luggage arrives at the Hotel before Guests, only if the Hotel accepts such arrival in advance, the Hotel shall be responsible
+for storing such luggage, and the Hotel shall return it to Guests when they check in.",O,36,10
+42,"What is the timeframe for the hotel to handle lost cash and valuables? 
+What will the hotel do with guests' food and drinks left behind? 
+How will the hotel handle lost property if no instructions are given by the guests?","
+If Guests’ hand luggage and personal belongings are found left at the Hotel after their check out, the Hotel, in principle, shall wait for
+inquiries from Guests and ask for instructions. If no instructions are given from Guests, the Hotel will handle it by Hotel’s rules based
+on Lost Property Act or directions, instructions, etc. of the local police station. Furthermore, cash and valuables will be delivered to the
+nearest police station within 7 days (including the day on which they are found), and foods, drinks, or insanitary goods will be
+promptly handled by the Hotel’s rules.",O,37,10
+43,What are the specific responsibilities mentioned in Article 16 Paragraph 1 and Paragraph 2?,"
+The Hotel’s responsibility regarding Paragraph 1 is as described in Article 16 Paragraph 1 and responsibility regarding Paragraph 2 is
+as described in Article 16 Paragraph 2.",O,38,10
+44,Does the hotel's liability for damages to a guest's vehicle depend on whether the hotel is actively managing the parking facilities at the time of the damage?,"
+When Guests use the Hotel’s parking facilities, the Hotel is merely the lender of a parking space; the Hotel is not liable for the care of
+Guests’ vehicle, whether vehicle’s key is bailed to the Hotel or not. However, if Guest’s vehicle is damaged while the Hotel is managing
+parking facilities, due to Hotel’s intention or negligence, the Hotel shall be liable for compensation of such damages.",O,39,10
+45,What is the Hotel's policy regarding damages caused by guests' actions?,"
+In the event of damage to the Hotel due to Guests’ intention or negligence, Guests shall compensate damages to the Hotel.",O,40,10
+46,What is the purpose of including a provision about invalid clauses in the Terms and Conditions?,"
+If any provision of the Terms and Conditions, Terms of Use, etc. is found invalid under law, the validity of the remaining provisions will
+not be in any way affected.",O,41,10
+47,What is the implication of a provision being found invalid in relation to certain guests?,"
+If any provision of the Terms and Conditions, Terms of Use, etc. is found invalid or cancelled in relation to certain Guests, the validity
+of the provisions in relation to the remaining Guests will not be in any way affected.",O,42,10
+48,"What laws of Japan govern the validity, construction, and performance of the Terms and Conditions? 
+","
+The validity, construction, and performance of the Terms and Conditions, Terms of Use, etc. will be governed in the laws of Japan.
+If the Hotel deems necessary, the Hotel may amend this Terms and Conditions. If the Hotel decides to make such amendment, until
+the date 1 month prior to the effective date of such amendment, the Hotel will announce such amendment, amended Terms and
+Conditions, and its effective date on the homepage of UNO HOTEL",O,43,10
+49," What is the process for the Hotel to make amendments to the Terms and Conditions? 
+","
+The validity, construction, and performance of the Terms and Conditions, Terms of Use, etc. will be governed in the laws of Japan.
+If the Hotel deems necessary, the Hotel may amend this Terms and Conditions. If the Hotel decides to make such amendment, until
+the date 1 month prior to the effective date of such amendment, the Hotel will announce such amendment, amended Terms and
+Conditions, and its effective date on the homepage of UNO HOTEL",C,43,10
+50, What is the timeframe for the Hotel to announce any amendments to the Terms and Conditions?,"
+The validity, construction, and performance of the Terms and Conditions, Terms of Use, etc. will be governed in the laws of Japan.
+If the Hotel deems necessary, the Hotel may amend this Terms and Conditions. If the Hotel decides to make such amendment, until
+the date 1 month prior to the effective date of such amendment, the Hotel will announce such amendment, amended Terms and
+Conditions, and its effective date on the homepage of UNO HOTEL",C,43,10

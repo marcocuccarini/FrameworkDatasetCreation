@@ -1,0 +1,57 @@
+,question,answer,question_index,answer_index,document_index
+0,What are the main reasons for the hotel management to ask guests to respect the rules?,"The hotel management asks you to respect these rules, which enable all our guests to have a peaceful and
+safe stay in our 6532 SmartHotel.",O,0,4
+1,What is the earliest time that the booked room can be occupied?,"
+The booked room can be occupied from 15:00 on the day of arrival.",O,1,4
+2,What is the definition of a guest in the context of a hotel?,"
+A guest is considered to be any person staying in the hotel who has concluded a hotel contract or has
+registered something that suggests that he or she wants to conclude a hotel contract.",O,2,4
+3,Is the hotel guest allowed to transfer their paid stay to another person?,"
+A hotel guest may not leave the room to another person, even if the time for which he or she has paid has
+not expired.",O,3,4
+4,Is it allowed to use a hotel room for someone else without the hotel's permission?,"
+The hotel room is reserved exclusively for the registered guest. The handover of the room to a third person
+or its use by another person requires the written consent of the hotel.",O,4,4
+5,What is the consequence for a guest who disturbs other guests and the neighborhood?,"
+We ask all guests to behave in such a way that they do not disturb other guests and the neighborhood.
+The hotel staff is authorized to refuse services to a person who violates this rule.",O,5,4
+6,What is the hotel's policy regarding noise levels in the rooms?,"
+In all rooms, corridors and stairwells, noise in the room must be kept down from 10 pm.
+Smoking is strictly prohibited in the entire hotel building.",O,6,4
+7,What area is being referred to in the statement?,"
+We kindly ask you to use the designated outdoor area.",O,7,4
+8,What specific actions are guests expected to take to conserve water and electricity?,"
+During your stay at the hotel, we ask you to behave in an environmentally friendly manner, especially with
+regard to the use of water and electricity.",O,8,4
+9,What are the hotel guest's responsibilities in case of damage to the hotel's property?,"
+The hotel guest is materially liable for any damage to the hotel's furniture and technical equipment caused
+through his or her own fault or that of his or her visitors.",O,9,4
+10,"In the event of a fire, what should you not use?","
+In the event of an emergency, the indicated escape routes and emergency exits must be used, and
+it is strictly forbidden to use the lift in the event of a fire.",O,10,4
+11,What is the time by which guests are expected to vacate their hotel room on the day of departure? ,"
+We kindly ask you to vacate your hotel room by 10.30 a.m. on the day of departure. In case of late
+departure, the room will be charged for an additional night. If you wish a late check-in or check-out, this is
+possible for an additional charge of 50 CH.",O,11,4
+12," 
+What is the additional charge for a late check-out or check-in at the hotel?","
+We kindly ask you to vacate your hotel room by 10.30 a.m. on the day of departure. In case of late
+departure, the room will be charged for an additional night. If you wish a late check-in or check-out, this is
+possible for an additional charge of 50 CH.",C,11,4
+13,Is the hotel responsible for the safety of luggage left in the designated space?,"
+The hotel offers the possibility of depositing your luggage in a specially designated space, but accepts no
+liability for this.",O,12,4
+14,Is the hotel's policy of not allowing pets to be left alone in the room a common practice among hotels?,"
+Pets are allowed in the hotel under supervision for an additional charge of CHf. 20.00 per day (in our
+opinion too high), but pets are not allowed to be left alone in the room.",O,13,4
+15,When is breakfast served at the weekend?,"
+Breakfast is served from 07.00 to 10.00 during the week, and at weekends from 07.30 to 10.30.",O,14,4
+16,What are the items that the hotel is especially concerned about being lost? ,"
+The hotel expressly disclaims any liability for the loss of valuables (especially jewellery and cash).
+In case of medical needs, please consult the map in your room under ""useful numbers"".
+We kindly ask you to report any found or lost items to reception.",O,15,4
+17,"
+What should you do if you find an item in your room?","
+The hotel expressly disclaims any liability for the loss of valuables (especially jewellery and cash).
+In case of medical needs, please consult the map in your room under ""useful numbers"".
+We kindly ask you to report any found or lost items to reception.",C,15,4

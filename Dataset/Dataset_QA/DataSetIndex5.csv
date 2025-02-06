@@ -1,0 +1,36 @@
+,question,answer,question_index,answer_index,document_index
+0,What are the specific rules and regulations that hotel guests must comply with to avoid termination of their accommodation?,"To ensure the safety and comfort of everyone in the hotel, the Management
+reserves the right to terminate the accommodation of guests who fail to comply
+with the following rules and regulations.",O,0,5
+1,What are the locations where children should be accompanied according to the text? ,"
+Children should be accompanied in locations such as stairways etc.
+ The rooms are for accommodation service. Each individual staying in a room
+must be registered at the reception.",O,1,5
+2,"
+What is the requirement for individuals staying in a room according to the text?","
+Children should be accompanied in locations such as stairways etc.
+ The rooms are for accommodation service. Each individual staying in a room
+must be registered at the reception.",C,1,5
+3,What happens to unregistered visitors who try to enter guest rooms or other areas of the hotel?,"
+ Unregistered visitors are not permitted to enter guest rooms or other areas of
+the hotel. An additional fee for unregistered guests will be charged to the
+account of the guest(s) registered to the room.",O,2,5
+4,What is the main reason for the request made to the guests?,"
+ We kindly request that guests maintain a reasonable volume level. Please
+respect the comfort of other guests.",O,3,5
+5,"What kind of behaviour is considered ""disturbing"" in this context?","
+ Our guests are strictly forbidden to harass each other or demonstrate
+disturbing behaviour.",O,4,5
+6,"What does ""Amethyst Hotel"" do in case a guest's belongings are lost or stolen?","
+ Our guests are entirely responsible for their belongings. “Amethyst Hotel”
+does not accept any responsibility should a guest’s belongings be lost or
+stolen.",O,5,5
+7,What happens if you don't keep your valuables in the special safes?,"
+ Please keep your valuables in the special safes in your rooms. Otherwise, the
+hotel management does not accept any responsibility.",O,6,5
+8,What is the primary purpose of the disclaimer in the text?,"
+ “Amethyst Hotel” does not accept any responsibility for any accident or
+injury beyond the control of the Hotel.",O,7,5
+9,What is the main reason for the prohibition of discarding items or garbage from hotel windows or balconies?,"
+It is strictly forbidden to discard items or garbage from the windows or
+balconies of the Hotel.",O,8,5

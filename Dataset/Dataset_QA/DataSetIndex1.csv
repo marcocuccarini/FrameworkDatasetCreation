@@ -1,0 +1,277 @@
+,question,answer,question_index,answer_index,document_index
+0,Who is personally liable for the booking and accommodation expenses?,"The person making the booking ('the Principal Customer'), whether in his/her personal capacity, for his/her
+family or a group (whether traveling socially, for leisure or for business, tourism, or incentives) will be
+personally liable for the booking and accommodation, cancellation, non-arrival and any expenses, loss or
+damage incurred (whether personal, hotel or third-party property) during the booking period.",O,0,1
+1,What type of expenses will you be deemed the contracting party for?,"
+Without limiting the generality of the aforementioned, it applies to pay-to-view TV programmes or videos, as
+well as telephone calls or any other expenses of a similar nature that is made from your room, you will be
+deemed to be the contracting party.",O,1,1
+2,What is the main responsibility of the Principal Customer according to the given text?,"
+The Principal Customer warrants that he/she is duly authorized to make the booking and to accept all the
+terms and conditions (the T's & C's) contained herein.",O,2,1
+3,What is the maximum number of people allowed in the room according to the specified limitation?,"
+Please take note of the limitation specified for the room you have booked.
+If such number is exceeded, whether temporarily or over-night, we reserve the right to do one or more of
+the following: cancel your booking; retain all the monies you've paid; request you to vacate your room(s)
+forthwith, charge a higher rate for the room or recover all monies due.",O,3,1
+4,Are visitors allowed to be in the same room as residents in this establishment?,"
+Visitors are not allowed in the rooms and must be entertained in the lounges and/or other public areas
+provided.",O,4,1
+5,What is included in the price as advertised? ,"
+It is your duty to confirm what is included/excluded in the price. The price is as advertised, but subject to
+change until the required deposit has been paid and is reflected in our bank account. The deposit is non-refundable
+regardless of the circumstances giving rise to cancellation, unless cancelled by us.",O,5,1
+6, What are the circumstances that would allow for the deposit to be refunded?,"
+It is your duty to confirm what is included/excluded in the price. The price is as advertised, but subject to
+change until the required deposit has been paid and is reflected in our bank account. The deposit is non-refundable
+regardless of the circumstances giving rise to cancellation, unless cancelled by us.",C,5,1
+7,Can you pay with a cheque at this establishment?,"
+We accept cash and most credit / debit cards.
+We do not accept cheques.",O,6,1
+8,What type of payment method is used as an alternative to a credit card imprint?,"
+We reserve the right to take an imprint of and place a hold for the anticipated costs of your stay on your
+credit card upon arrival, or in lieu of that, request a cash deposit.",O,7,1
+9,What are the check-in and check-out times?,"
+Please take note of our check-in & check-out times.",O,8,1
+10,Will your booking be cancelled if you don't notify the establishment by 17:00 on the day of arrival?,"
+Please advise us if you anticipate arriving late as bookings will be cancelled by 17:00 on the day of arrival,
+unless we have been so notified.",O,9,1
+11,What are the potential extra costs associated with early check-in and late check-out?,"
+Early check-in and late check-out: we will use our best endeavours to accommodate you, but an
+additional charge may be levied.",O,10,1
+12,Will the company meet any special requests that are made?,"
+We do not guarantee that any special requests will be met, but we will use our best endeavours to do so as
+well as using our best endeavours to advise you if that is not the case.",O,11,1
+13,What type of fees might be charged due to food preferences?,"
+Please advise us in advance of any food preferences (e.g., Halaal, Kosher, etc.) BUT please note
+that these may well result in additional fees being charged of which we will advise you.",O,12,1
+14,What information is being requested from the individuals in the party?,"
+Please advise us if you or any person in your party suffer from any allergies such as
+food, pollen, etc. or phobias such as agoraphobia, claustrophobia, etc.",O,13,1
+15,"Will water restrictions be applicable during a guest's stay? 
+","
+We may have water restrictions applicable during your stay so please check with us when
+you book. If that is the case, bathing may either not be allowed or restricted. Nevertheless, please advise
+whether you would prefer a bath or a shower.",O,14,1
+16," 
+Can a guest choose between a bath and a shower despite potential water restrictions?","
+We may have water restrictions applicable during your stay so please check with us when
+you book. If that is the case, bathing may either not be allowed or restricted. Nevertheless, please advise
+whether you would prefer a bath or a shower.",C,14,1
+17,What type of challenges are you being asked to advise about in the given text?,"
+Please advise us of any physical or other challenges anyone in your party may
+be faced with. We use our best endeavours to meet international UA standards.",O,15,1
+18,What is the purpose of the given text?,"
+Please advise if you have any preference.",O,16,1
+19,"What is the context of the given text, is it related to a hotel, restaurant or event?","
+Please advise of any special needs such as high-chairs and sleeping cots.",O,17,1
+20,What type of animals are not allowed in the specified location?,"
+Only guide dogs and service dogs are allowed.",O,18,1
+21,What are the conditions for cancelling a reservation according to the text?,"
+If you cancel the reservation (which must be done by confirmed e-mail, letter or telefax),
+the Company shall have the right to either claim the deposit or to retain the deposit and claim damages
+suffered by the Company.",O,19,1
+22,What circumstances are considered beyond the company's control for the purpose of canceling a reservation?,"
+If we must cancel the reservation due to circumstances beyond our control, the entire payment will be
+refunded to you without any further obligation on our part and you will have no further recourse against us.",O,20,1
+23,What is the cancellation policy for bookings made 24 hours or less prior to arrival?,"
+If you cancel, the applicable cancellation fees for individual bookings are as follows:
+24 Hours or less prior to arrival 100 percent of first night reservation fee.
+No shows and early departures, 100 percent of total reservation fee.",O,21,1
+24,What are some types of insurance cover recommended for the activity?,"
+It is strongly advised that you arrange adequate insurance cover such as cancellation due to illness,
+accident or injury, personal accident and personal liability, loss of or damage to baggage and sport
+equipment (Note that is not an exhaustive list). We will not be responsible or liable if you fail to take
+adequate insurance cover or none at all.",O,22,1
+25,What are the consequences if the insurers dispute their liability? ,"
+Should the insurers dispute their liability for any reason, you will have recourse against the insurers only. Once
+the insurance has been confirmed and paid for; you will be issued with a policy document of the insurer. It is
+a complex document, which must be read BEFORE YOU initiate your travel so that you can address any
+queries you may have to the insurer PRIOR to your departure.",O,23,1
+26,"
+What should you do with the policy document before initiating your travel?","
+Should the insurers dispute their liability for any reason, you will have recourse against the insurers only. Once
+the insurance has been confirmed and paid for; you will be issued with a policy document of the insurer. It is
+a complex document, which must be read BEFORE YOU initiate your travel so that you can address any
+queries you may have to the insurer PRIOR to your departure.",C,23,1
+27,What types of travel-related risks are typically covered by credit card travel insurance?,"
+Please note that various credit card companies offer limited levels of travel insurance. Kindly check with the
+respective credit card companies in order to obtain the specific details of the cover.",O,24,1
+28,What is the main reason for reserving the right to charge guests in the given text? ,"
+We reserve the right to charge you for inter alia breakage, spillage, and stains. If any of the above is
+transparent upon your arrival or occurs during your stay, same must be reported immediately to reception
+and a receipt be obtained.
+This clause applies (without limitation) to lost keys, fobs, and towels.
+Any such amounts will be added to you invoice and is payable upon departure.",O,25,1
+29," 
+What type of items are included in the list of items that may incur charges? ","
+We reserve the right to charge you for inter alia breakage, spillage, and stains. If any of the above is
+transparent upon your arrival or occurs during your stay, same must be reported immediately to reception
+and a receipt be obtained.
+This clause applies (without limitation) to lost keys, fobs, and towels.
+Any such amounts will be added to you invoice and is payable upon departure.",C,25,1
+30," 
+What is the procedure for reporting damage or loss of items during a stay?","
+We reserve the right to charge you for inter alia breakage, spillage, and stains. If any of the above is
+transparent upon your arrival or occurs during your stay, same must be reported immediately to reception
+and a receipt be obtained.
+This clause applies (without limitation) to lost keys, fobs, and towels.
+Any such amounts will be added to you invoice and is payable upon departure.",C,25,1
+31,What are the possible consequences of preparing food in a room according to the given statement?,"
+No food, whatsoever, may be prepared in your room.",O,26,1
+32,What happens to the belongings of a guest if they are left behind in their room?,"
+Whilst we will use our best endeavours to advise you of and to return to you any belongings left in your room
+or the premises - any costs so incurred (e.g., courier services) will be for your account.",O,27,1
+33,What is the maximum time goods will be kept by the company?,"
+However, in lieu of the above, any such goods will only be kept by us for 6 (six) months. At the end of which
+period, we reserve the right in our sole discretion to dispose thereof and you will have no right of recourse
+against us.",O,28,1
+34,What areas are designated for smoking?,"
+Smoking is only allowed in designated areas. Applicable legislation must be complied with and we reserve
+the right to enforce the latter.",O,29,1
+35,Will Wi-Fi be available at all times without any limitations? ,"
+Wi-Fi will be available at our premises free of charge and uncapped. Please check availability and
+password upon arrival. It must be used appropriately and we reserve the right to monitor performance and
+usage to ensure a high standard of service and access.",O,30,1
+36, Is it necessary to check the Wi-Fi password upon arrival?,"
+Wi-Fi will be available at our premises free of charge and uncapped. Please check availability and
+password upon arrival. It must be used appropriately and we reserve the right to monitor performance and
+usage to ensure a high standard of service and access.",C,30,1
+37,Is parking included in the room rate or is it an additional charge?,"
+Parking is only allowed in designated areas, is entirely at your own risk and limited to 1 (one) vehicle per
+room, unless a prior arrangement has been made subject to our sole and unfettered discretion.
+Please ensure if the parking is included in the rate or if parking is payable by you.",O,31,1
+38,What type of liability is the Principal Customer agreeing to assume according to the text?,"
+The Principal Customer and all members of his family and/or group agree that he/she will at all times
+comply with our requirements and instructions in regard to his/her conduct and he/she will not in any way
+constitute a hindrance to any other guests. The Principal Customer indemnifies and holds us harmless
+against damages suffered and/or costs incurred by him/her and/or any third party as a result of a breach of
+this clause.",O,32,1
+39,What are the circumstances under which The Company may not maintain confidentiality of client information?,"
+Subject to statutory constraints or compliance with an order of a court, The Company undertakes to deal
+with all client information of a personal nature on a strictly confidential basis.",O,33,1
+40,What does the POPIA stand for in the given text?,"
+We will only deal with your information as indicated in the booking/reservation and we will only process your
+personal information (both terms as defined in the Protection of Personal Information Act, act 4 of 2013 ['the
+POPIA'] and the European Union General Data Protection Regulation – ('GDPR') and any Special Personal
+Information (as defined in the GDPR & POPIA), which processing includes amongst others the 'collecting,
+storing and dissemination' of your personal information (as defined in GDPR & POPIA).",O,34,1
+41,What is the extent of liability exemption for the Indemnified Parties in case of guest injury or death?,"
+All bookings are made on the express condition that we, our directors, members, partners, employees and
+agents ('the Indemnified Parties'), shall not be responsible for and shall be exempt from, all liability in respect
+of loss (financial or otherwise), damage, accident, injury, death, harm, illness, trauma, delay or
+inconvenience to any guest (which shall be deemed to include the heirs, executors, administrators or
+assignees of the Client whether accompanying the guest or not), or loss of or damage to their luggage, or
+other property, wherever, whenever, and however the same may occur and whether arising from any act, omission,
+default, or negligence on the part of the Company whatsoever.",O,35,1
+42,What is the CPA in the given text?,"
+The Principal Customer and any accompanying persons indemnifies and holds harmless the Indemnified Parties
+accordingly and such Parties will furthermore not be liable for any consequential or indirect loss or damages
+whatsoever, unless section 61 of the CPA applies. Please note that this clause is applicable from the time you leave your
+residence until the time you return.",O,36,1
+43,What is the governing law in the relationship between the parties mentioned in the text? ,"
+South African law and the jurisdiction of South African courts will govern the relationship between the
+parties. We shall be entitled to institute any legal proceedings arising out of or in connection with this
+contract in any Magistrates Court having jurisdiction in terms of Section 28 of the Magistrates Court Act no.
+32/1944 as amended, notwithstanding that the amount in issue may exceed the limits of such jurisdiction.",O,37,1
+44," 
+In which South African courts can legal proceedings be instituted according to the contract?","
+South African law and the jurisdiction of South African courts will govern the relationship between the
+parties. We shall be entitled to institute any legal proceedings arising out of or in connection with this
+contract in any Magistrates Court having jurisdiction in terms of Section 28 of the Magistrates Court Act no.
+32/1944 as amended, notwithstanding that the amount in issue may exceed the limits of such jurisdiction.",C,37,1
+45,"What does the term ""domicilium citandi et excutandi"" refer to in the given text?","
+The parties choose their respective domicilium citandi et excutandi as reflected on the booking form.
+These conditions (together with all enquiries, advice, quotations, or estimates addressed to, provided by or
+bookings made and indemnities signed) constitute collectively the entire terms of the relationship between
+the parties.",O,38,1
+46,"What is the purpose of the ""contra proferentem rule"" in this text?","
+There exist no other terms, conditions, warranties, representations, guarantees, promises,
+undertakings or inducements of any nature whatsoever (whether verbal or in writing) regulating the
+relationship and you acknowledge that you have not relied on any matter or thing stated on our behalf or
+otherwise, that is not included herein. The contra proferentem rule will not apply to the interpretation of
+these conditions.",O,39,1
+47,What is the main reason the BON Hotels Group is exempt from liability?,"
+I, on behalf of all persons in my party, agree that BON Hotel Empangeni, the owner/
+operator and manager of the Hotel, their respective directors, officers, affiliates, employees, representatives
+and service providers (collectively described as ""the BON Hotels Group"") shall not be responsible or liable for
+any death or injury to any person or loss or damage to any property, howsoever and by whomsoever
+caused or arising from our stay and use of the Hotel facilities and amenities, whether due to negligent acts
+or omissions of the BON Hotels Group or not.",O,40,1
+48,What is the purpose of the indemnification mentioned in the text?,"
+I and all in my party, unconditionally and irrevocably, indemnify
+and hold harmless all entities and persons in the BON Hotels Group in respect of any responsibility, liability
+and/or damages, direct and indirect, as aforesaid.",O,41,1
+49,What are the consequences of not checking out on time at the hotel? ,"
+I accept personal responsibility for payment of all amounts arising from my party's stay at the Hotel.
+I/we are obligated to vacate my/our room/s at the designated check-out time, unless I have made prior
+alternative check-out arrangements with the management of the Hotel. My/our failure to do so will result in
+my liability for the costs of an additional night's accommodation.",O,42,1
+50,"
+What does it mean to make prior alternative check-out arrangements with the hotel management?","
+I accept personal responsibility for payment of all amounts arising from my party's stay at the Hotel.
+I/we are obligated to vacate my/our room/s at the designated check-out time, unless I have made prior
+alternative check-out arrangements with the management of the Hotel. My/our failure to do so will result in
+my liability for the costs of an additional night's accommodation.",C,42,1
+51,What is the primary concern mentioned in this text regarding internet access at the Hotel?,"
+Internet access at the Hotel is unsecured and I/we use such internet access strictly at my/our own risk.",O,43,1
+52,Does the consent to use CCTV footage imply that the hotel can share it with third parties?,"
+I/we take note that the Hotel's public areas and general premises are monitored by close circuit
+television for security purposes. I/we consent to the use of such close circuit television footage for any lawful
+purpose in the sole discretion of the BON Hotels Group.",O,44,1
+53,"What is considered an ""unacceptable manner"" by the Hotel's management?","
+The Hotel's management reserves the right to request any guest to leave the Hotel if they are causing a
+disturbance or annoying other guests or Hotel staff or behaving in an unacceptable manner at the sole
+discretion of the Hotel's management.",O,45,1
+54,What does the BON Hotels Group plan to do with the personal information of people in the party?,"
+I understand and accept that the BON Hotels Group collects the personal information (""personal
+information"") of all persons in my party for purposes of loyalty programmes and special offers. I, on behalf of
+all in my party, expressly consent and grant permission to the BON Hotels Group to: -
+collect, collate, process, study and use the personal information; and
+communicate directly with me/us from time to time, unless I have stated to the contrary below.",O,46,1
+55,How does the BON Hotels Group plan to secure and protect the personal information of its users? ,"
+The use of the personal information by the BON Hotels Group shall be subject to the following conditions:
+The consent to use the personal information may at any time be withdrawn in writing by me/us
+and the BON Hotels Group shall cease to use the data within 5 days after receipt of the written
+notice.
+BON Hotels Group shall take all reasonable steps to secure and protect the personal information
+disclosed by me/us.
+BON Hotels Group may only distribute the personal information to its business associates,
+affiliates and its authentic service providers with my express consent.",O,47,1
+56,"
+What is the timeframe within which the BON Hotels Group will stop using personal information after receiving a written notice to withdraw consent?","
+The use of the personal information by the BON Hotels Group shall be subject to the following conditions:
+The consent to use the personal information may at any time be withdrawn in writing by me/us
+and the BON Hotels Group shall cease to use the data within 5 days after receipt of the written
+notice.
+BON Hotels Group shall take all reasonable steps to secure and protect the personal information
+disclosed by me/us.
+BON Hotels Group may only distribute the personal information to its business associates,
+affiliates and its authentic service providers with my express consent.",C,47,1
+57,Will you be excluded from direct communication via Telephone?,"
+Exclude me/us from direct communication via: - (please tick one or as many as applicable)
+ Email
+ SMS
+ Telephone
+ Post
+ Social media ",O,48,1
+58,What type of consent is being referred to in this text?,"
+I/we have no obligation to provide the BON Hotels Group with the consents and permissions contained
+herein and I/we do so willingly, freely, and voluntary.",O,49,1
+59,What kind of responsibility does the BON Hotels Group have in case of personal information loss?,"
+The BON Hotels Group shall not be responsible for any disclosure, use, damages and/or losses incurred
+as a result of the use and/or disclosure and/or loss of personal information.",O,50,1
+60,What is the owner responsible for in relation to the luggage storage room?,"
+All articles stored in the luggage storage room are received at the owner’s own risk.",O,51,1
+61,Where can one find the hotel's privacy policy? ,"
+Acceptance: I/we have carefully read the above and hereby confirm that all the personal details and
+travel details specified herein are correct. I/we have read, fully understand, and accept to be bound by
+the Hotel's conditions of residence and privacy policy which is available on our website
+www.bonhotels.com/empangeni as well as in the rooms’ directory folder.",O,52,1
+62," 
+What are the personal details specified in the acceptance?","
+Acceptance: I/we have carefully read the above and hereby confirm that all the personal details and
+travel details specified herein are correct. I/we have read, fully understand, and accept to be bound by
+the Hotel's conditions of residence and privacy policy which is available on our website
+www.bonhotels.com/empangeni as well as in the rooms’ directory folder.",C,52,1

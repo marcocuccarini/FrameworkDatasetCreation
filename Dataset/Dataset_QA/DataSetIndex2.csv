@@ -1,0 +1,353 @@
+,question,answer,question_index,answer_index,document_index
+0,What does the Operating Company's seat location indicate?,"When the Customer enters into a contract with Mövenpick Hotels Deutschland GmbH (seat: Frankfurt am Main, Amtsgericht Frankfurt
+am Main HRB108250, Germany) (Operating Company) for the rent of hotel rooms in one of the hotels operated by the Operating Company
+in Germany, as well as other services rendered and goods delivered to the Customer in this context (Hotel Accommodation
+Contract/Contract) these General Terms and Conditions become an integral part of the Contract.",O,0,2
+1,"What does ""expressly agreed"" refer to in this context?","
+The Customer’s general terms and conditions apply only if this is previously expressly agreed.",O,1,2
+2,What is the name of the operating company mentioned in the contract? ,"
+The contracting parties are Mövenpick Hotels Deutschland GmbH (Operating Company) and the Customer. The performance of the
+Operating Company within the scope of the Contract is carried out by the particular hotel branch of the Operating Company (Hotel).
+The Contract shall come into force upon the Hotel’s acceptance of the Customer’s offer.",O,2,2
+3, Who is responsible for carrying out the performance of the Operating Company within the contract?,"
+The contracting parties are Mövenpick Hotels Deutschland GmbH (Operating Company) and the Customer. The performance of the
+Operating Company within the scope of the Contract is carried out by the particular hotel branch of the Operating Company (Hotel).
+The Contract shall come into force upon the Hotel’s acceptance of the Customer’s offer.",C,2,2
+4,"What are the unforeseen reasons that might prevent the Hotel from keeping available the rooms reserved by the Customer? 
+What services is the Hotel obliged to render to the Customer? 
+What happens if no room in the reserved category is available upon arrival at the Hotel? 
+Does the Hotel assume liability for the services of the other hotel operator in case accommodation is organized in another hotel? 
+What is provided to the guest by the Hotel in case accommodation is organized in another hotel?","
+The Hotel is obliged to keep available the rooms reserved by the Customer and to render the agreed services. Should for unforeseen
+reasons no room in the reserved category be available upon arrival, the Hotel will provide a room in the next higher category. Should no
+room be available in the Hotel, the Hotel can organize accommodation in another, at least equivalent hotel. The Hotel does not assume
+liability for the services of the other hotel operator. The Hotel provides transport to and from the other hotel with luggage as well as a three
+minute international phone call, for the purpose of informing about the new address. Furthermore, the Hotel provides a voucher for an
+equivalent hotel room valid for the guest’s next stay in the Hotel.",O,3,2
+5,What are the services that the Hotel disburses for third parties that the Customer orders directly or via the Hotel?,"
+The Customer is obliged to pay to the Hotel the agreed or applicable prices for the room rental and other services provided. This also
+applies to services ordered directly by the Customer or via the Hotel, which a third party provides and the Hotel disburses.",O,4,2
+6,Does the extraordinary termination right apply to consumers in this situation?,"
+The Hotel’s prior written consent is required if the Customer wishes to sublet the provided rooms or use them for other than lodging
+purposes. Insofar as the Customer is not a consumer, the extraordinary termination right in case of lacking consent of the Hotel, Section
+540, paragraph 1, sentence 2 German Civil Code (BGB), is waived.",O,5,2
+7,What are the conditions under which a customer can request a specific room?,"
+The Customer does not have the right to be provided specific rooms, unless this is expressly agreed.",O,6,2
+8,What is the earliest time that a customer can check into a reserved room?,"
+Reserved rooms are available to the Customer from 3:00 p.m. on the agreed arrival date. The Customer cannot claim an earlier
+handover.",O,7,2
+9,"What are the consequences if a customer fails to vacate their room by the agreed departure time? 
+","
+Rooms must be vacated and made available to the Hotel no later than 12:00 noon on the agreed departure date. Should the Customer
+not adhere to this provision, the Hotel may charge 50% of the full accommodation rate (list price) for the delayed vacation of the room until
+6:00 p.m., and 90% after 6:00 p.m. The Customer does not obtain any contractual claims hereby. The Customer is at liberty to prove that
+the Hotel’s claim based on the use of the room does not exist or is much lower.",O,8,2
+10, What percentage of the accommodation rate will the hotel charge if the customer stays beyond 6:00 p.m.?,"
+Rooms must be vacated and made available to the Hotel no later than 12:00 noon on the agreed departure date. Should the Customer
+not adhere to this provision, the Hotel may charge 50% of the full accommodation rate (list price) for the delayed vacation of the room until
+6:00 p.m., and 90% after 6:00 p.m. The Customer does not obtain any contractual claims hereby. The Customer is at liberty to prove that
+the Hotel’s claim based on the use of the room does not exist or is much lower.",C,8,2
+11,Is the use of photographs taken of the Hotel interior for personal purposes allowed?,"
+The use for commercial purposes of photographs taken of the Hotel interior, both of the common areas and the Hotel rooms is
+prohibited.",O,9,2
+12,What types of taxes are included in the agreed prices? ,"
+The taxes, including local taxes, in effect at the time of conclusion of the Contract, are included in the agreed prices, with the exception
+of locally levied taxes which are owed directly by the guest according to the particular municipal law, for example a visitor’s tax. If the
+statutory value added tax is changed or if local taxes are newly introduced, changed or abolished after conclusion of the Contract, the
+prices will be adjusted accordingly. Insofar as the Customer is a consumer, this only applies if four months have passed between the
+conclusion and fulfilment of the Contract.",O,10,2
+13," 
+What happens to the prices if there is a change in statutory value added tax after the contract is concluded?","
+The taxes, including local taxes, in effect at the time of conclusion of the Contract, are included in the agreed prices, with the exception
+of locally levied taxes which are owed directly by the guest according to the particular municipal law, for example a visitor’s tax. If the
+statutory value added tax is changed or if local taxes are newly introduced, changed or abolished after conclusion of the Contract, the
+prices will be adjusted accordingly. Insofar as the Customer is a consumer, this only applies if four months have passed between the
+conclusion and fulfilment of the Contract.",C,10,2
+14,Can the hotel increase the price for the rooms and/or services if the customer wants to extend their stay?,"
+Should the Customer wish to reduce the number of reserved rooms, the services of the Hotel or the Customer’s length of stay, the Hotel
+can increase the price for the rooms and/or for the other services.",O,11,2
+15,What happens if the invoice from the Hotel is not paid within the specified ten-day period?,"
+Invoices from the Hotel without a payment date are due within ten days of receipt of the invoice.",O,12,2
+16,What are the consequences of default of payment according to the statutory rules mentioned in the text? ,"
+The Hotel can demand immediate payment of due debt from the Customer. The statutory rules concerning the consequences of default
+of payment apply. The Hotel reserves the right to prove greater damage.",O,13,2
+17,"
+Can the Hotel demand immediate payment of due debt from the Customer if they have not been given a prior notice?","
+The Hotel can demand immediate payment of due debt from the Customer. The statutory rules concerning the consequences of default
+of payment apply. The Hotel reserves the right to prove greater damage.",C,13,2
+18,"What does ""res judicata"" mean in the context of the hotel's claim?","
+The Customer may only set off a claim by the Hotel against a claim, which is undisputed or decided with final, res judicata effect.",O,14,2
+19,What type of payment is Mövenpick Hotels & Resorts allowed to require from the Customer upon conclusion of the Contract? ,"
+Upon conclusion of the Contract, the Hotel may require a reasonable advance payment or the provision of a security, such as a credit
+card guarantee, from the Customer. In case of an advance payment on the website of Mövenpick Hotels & Resorts, the payment is
+processed via Mövenpick Hotels Deutschland GmbH, the parent company of the Operating Company. Mövenpick Hotels Deutschland
+GmbH forwards the payment to the respective Hotel and has only an intermediary role for the purpose of the credit card payment.",O,15,2
+20," 
+What role does Mövenpick Hotels Deutschland GmbH play in processing credit card payments for Mövenpick Hotels & Resorts?","
+Upon conclusion of the Contract, the Hotel may require a reasonable advance payment or the provision of a security, such as a credit
+card guarantee, from the Customer. In case of an advance payment on the website of Mövenpick Hotels & Resorts, the payment is
+processed via Mövenpick Hotels Deutschland GmbH, the parent company of the Operating Company. Mövenpick Hotels Deutschland
+GmbH forwards the payment to the respective Hotel and has only an intermediary role for the purpose of the credit card payment.",C,15,2
+21,What are the statutory provisions that are exempt from the general terms and conditions of Mövenpick Hotels Deutschland GmbH? ,"
+Mövenpick Hotels Deutschland GmbH does not assume liability for the provision of the hotel services according to these General Terms
+and Conditions and the Contract. The statutory provisions relating to advance payments or to securities in connection with package tours shall remain unaffected. The statutory rules concerning the consequences of default of payment apply.",O,16,2
+22,"
+Who is liable in case of default of payment according to the statutory rules mentioned in the text?","
+Mövenpick Hotels Deutschland GmbH does not assume liability for the provision of the hotel services according to these General Terms
+and Conditions and the Contract. The statutory provisions relating to advance payments or to securities in connection with package tours shall remain unaffected. The statutory rules concerning the consequences of default of payment apply.",C,16,2
+23,"What does the Hotel demand in justified cases, e.g. the Customer’s default in payment? 
+What is the purpose of the advance payment or security demanded by the Hotel at the beginning of and during the stay? 
+Can the Hotel increase the advance payment or security agreed upon in the Contract up to the total agreed remuneration?","
+In justified cases, e.g. the Customer’s default in payment or the expansion of the scope of the Contract, the Hotel may, after the
+conclusion of the Con-tract and up to the commencement of the stay, demand an advance payment or the provision of a security within the meaning of the above-mentioned No. 7.1 or an increase of the advance payment or security agreed upon in the Contract up to the total agreed remuneration. Furthermore, the Hotel is entitled, at the beginning of and during the stay, to demand a reasonable advance payment or the provision of
+a security within the meaning of the above-mentioned No. 7.1 for existing and future claims arising from the Contract, insofar as such
+advance payment has not already been made or such security not already been provided pursuant to the above-mentioned No.",O,17,2
+24,Can the customer withdraw from the contract without the hotel's consent if a statutory right of withdrawal exists?,"
+The Customer can only withdraw from the Contract if a right of withdrawal was explicitly agreed upon in the Contract, if a statutory right
+of withdrawal exists or if the Hotel gives its explicit consent to the withdrawal. The agreement on a right of withdrawal as well as the consent
+to withdrawal shall be made in writing.",O,18,2
+25,What is the condition for the customer to withdraw from the contract without incurring payment or damage claims?,"
+Insofar as the Hotel and the Customer have agreed upon a date for a possible withdrawal from the Contract at no cost, the Customer
+may withdraw from the Contract up to that date, without incurring payment or damage claims by the Hotel.",O,19,2
+26,"What are the conditions under which the customer is not entitled to withdraw from the contract? 
+","
+In case the Customer is not entitled to withdraw from the Contract, the agreed remuneration is owed, regardless of whether the agreed
+services are used. If the Hotel can rent out the rooms to other customers, it must credit the income and the saved expenses against the
+agreed remuneration. If the rooms are not rented out to other customers, the Hotel can assess a lump sum for the saved expenses. In this
+case, the Customer is obligated to pay at least 90% of the contractually agreed total rate for lodging with or without breakfast as well as all-
+inclusive arrangements with external services, 70% for half-board and 60% for full-board arrangements. The Customer is at liberty to prove
+that the above-mentioned claim does not exist or does not amount to the demanded sum.",O,20,2
+27," If the hotel cannot rent out the rooms to other customers, what percentage of the contractually agreed total rate does the customer have to pay? 
+","
+In case the Customer is not entitled to withdraw from the Contract, the agreed remuneration is owed, regardless of whether the agreed
+services are used. If the Hotel can rent out the rooms to other customers, it must credit the income and the saved expenses against the
+agreed remuneration. If the rooms are not rented out to other customers, the Hotel can assess a lump sum for the saved expenses. In this
+case, the Customer is obligated to pay at least 90% of the contractually agreed total rate for lodging with or without breakfast as well as all-
+inclusive arrangements with external services, 70% for half-board and 60% for full-board arrangements. The Customer is at liberty to prove
+that the above-mentioned claim does not exist or does not amount to the demanded sum.",C,20,2
+28," What is the minimum percentage of the contractually agreed total rate that the customer must pay if the rooms are not rented out to other customers? 
+","
+In case the Customer is not entitled to withdraw from the Contract, the agreed remuneration is owed, regardless of whether the agreed
+services are used. If the Hotel can rent out the rooms to other customers, it must credit the income and the saved expenses against the
+agreed remuneration. If the rooms are not rented out to other customers, the Hotel can assess a lump sum for the saved expenses. In this
+case, the Customer is obligated to pay at least 90% of the contractually agreed total rate for lodging with or without breakfast as well as all-
+inclusive arrangements with external services, 70% for half-board and 60% for full-board arrangements. The Customer is at liberty to prove
+that the above-mentioned claim does not exist or does not amount to the demanded sum.",C,20,2
+29, Can the customer dispute the hotel's claim for saved expenses?,"
+In case the Customer is not entitled to withdraw from the Contract, the agreed remuneration is owed, regardless of whether the agreed
+services are used. If the Hotel can rent out the rooms to other customers, it must credit the income and the saved expenses against the
+agreed remuneration. If the rooms are not rented out to other customers, the Hotel can assess a lump sum for the saved expenses. In this
+case, the Customer is obligated to pay at least 90% of the contractually agreed total rate for lodging with or without breakfast as well as all-
+inclusive arrangements with external services, 70% for half-board and 60% for full-board arrangements. The Customer is at liberty to prove
+that the above-mentioned claim does not exist or does not amount to the demanded sum.",C,20,2
+30,What is the specific date mentioned in the text that the customer and the hotel can withdraw from the contract?,"
+Insofar as it was agreed that the Customer can withdraw from the Contract at no cost up to a certain date, the Hotel may also withdraw
+from the Con-tract up to this date, if the Customer does not, upon inquiry by the Hotel with a reasonable grace period, waive its right of
+withdrawal.",O,21,2
+31,"What is the reason for the hotel to withdraw from the contract according to the text? 
+What is the consequence of the customer not paying an advance payment or providing a security as agreed upon?","
+The Hotel may also withdraw from the Contract if the Customer does not pay an advance payment or provide a security agreed upon or
+demanded pursuant to No. 7.1 and/or No. 7.2, even after a reasonable grace period set by the Hotel has expired.",O,22,2
+32,What are the circumstances that justify the Hotel's extraordinary withdrawal from the Contract?,"
+Moreover, the Hotel has the right of extraordinary withdrawal from the Contract for a materially justifiable cause, in particular if
+force majeure or other circumstances beyond the Hotel’s control render the fulfilment of the Contract impossible;
+rooms are reserved with culpably misleading or false information or concealment regarding essential facts; the identity or
+solvency of the Customer or the purpose of the Customer’s stay can constitute essential facts;
+the Hotel has justified cause to believe that use of the Hotel’s services might jeopardize the smooth operation, the security or
+the public reputation of the Hotel, without being attributable to the Hotel’s sphere of control;
+the purpose or the occasion of the stay is illegal;
+there is a breach of the above-mentioned No. 4.1.",O,23,2
+33,What are the implications of the hotel's justified withdrawal on the customer's rights?,"
+The justified withdrawal by the Hotel constitutes no claim for damages for the Customer.",O,24,2
+34,What are the conditions under which the Hotel is liable for damages? ,"
+Unless stipulated otherwise in this No. 10, the Hotel is only liable for damages caused with intent or gross negligence. For damages
+due to slight negligence, the Hotel is only liable when the damages have been caused by harm inflicted on life, limb or physical health, and
+in case of damages due to violation of essential contractual obligations of the Hotel. In the latter case, the liability is limited to the
+foreseeable, typically occurring damage. A breach of obligation of the Hotel is deemed to be the equivalent to a breach of a statutory
+representative or vicarious agent.",O,25,2
+35," 
+What is the extent of the Hotel's liability for damages caused by slight negligence? ","
+Unless stipulated otherwise in this No. 10, the Hotel is only liable for damages caused with intent or gross negligence. For damages
+due to slight negligence, the Hotel is only liable when the damages have been caused by harm inflicted on life, limb or physical health, and
+in case of damages due to violation of essential contractual obligations of the Hotel. In the latter case, the liability is limited to the
+foreseeable, typically occurring damage. A breach of obligation of the Hotel is deemed to be the equivalent to a breach of a statutory
+representative or vicarious agent.",C,25,2
+36," 
+In what cases is the Hotel's liability for damages limited? ","
+Unless stipulated otherwise in this No. 10, the Hotel is only liable for damages caused with intent or gross negligence. For damages
+due to slight negligence, the Hotel is only liable when the damages have been caused by harm inflicted on life, limb or physical health, and
+in case of damages due to violation of essential contractual obligations of the Hotel. In the latter case, the liability is limited to the
+foreseeable, typically occurring damage. A breach of obligation of the Hotel is deemed to be the equivalent to a breach of a statutory
+representative or vicarious agent.",C,25,2
+37," 
+What type of damages are the Hotel's liability limited to in case of a breach of essential contractual obligations?","
+Unless stipulated otherwise in this No. 10, the Hotel is only liable for damages caused with intent or gross negligence. For damages
+due to slight negligence, the Hotel is only liable when the damages have been caused by harm inflicted on life, limb or physical health, and
+in case of damages due to violation of essential contractual obligations of the Hotel. In the latter case, the liability is limited to the
+foreseeable, typically occurring damage. A breach of obligation of the Hotel is deemed to be the equivalent to a breach of a statutory
+representative or vicarious agent.",C,25,2
+38,"What is the maximum value of money, securities, and valuables that can be brought into the hotel without a separate safekeeping agreement? ","
+The Hotel is liable to the Customer for property brought into the Hotel in accordance with the statutory provisions. The Hotel
+recommends the use of the safe at the Hotel reception. If the guest wishes to bring money, securities and valuables with a value of more
+than €800 or other items with a value of more than €3’500 into the Hotel, a separate safekeeping agreement with the Hotel is necessary.
+Insofar as a parking space is provided to the Customer in the Hotel garage or a Hotel parking lot, this does not constitute a
+safekeeping agreement, even if a fee is charged. The Hotel only assumes liability pursuant to the preceding No. 10.1 for loss of or damage
+to motor vehicles parked or maneuvered on the Hotel’s property, as well as for loss of or damage to its contents.",O,26,2
+39,"
+What is the value limit for other items that require a separate safekeeping agreement? ","
+The Hotel is liable to the Customer for property brought into the Hotel in accordance with the statutory provisions. The Hotel
+recommends the use of the safe at the Hotel reception. If the guest wishes to bring money, securities and valuables with a value of more
+than €800 or other items with a value of more than €3’500 into the Hotel, a separate safekeeping agreement with the Hotel is necessary.
+Insofar as a parking space is provided to the Customer in the Hotel garage or a Hotel parking lot, this does not constitute a
+safekeeping agreement, even if a fee is charged. The Hotel only assumes liability pursuant to the preceding No. 10.1 for loss of or damage
+to motor vehicles parked or maneuvered on the Hotel’s property, as well as for loss of or damage to its contents.",C,26,2
+40,"
+What is the purpose of the safe at the hotel reception according to the hotel? ","
+The Hotel is liable to the Customer for property brought into the Hotel in accordance with the statutory provisions. The Hotel
+recommends the use of the safe at the Hotel reception. If the guest wishes to bring money, securities and valuables with a value of more
+than €800 or other items with a value of more than €3’500 into the Hotel, a separate safekeeping agreement with the Hotel is necessary.
+Insofar as a parking space is provided to the Customer in the Hotel garage or a Hotel parking lot, this does not constitute a
+safekeeping agreement, even if a fee is charged. The Hotel only assumes liability pursuant to the preceding No. 10.1 for loss of or damage
+to motor vehicles parked or maneuvered on the Hotel’s property, as well as for loss of or damage to its contents.",C,26,2
+41,"
+Is a parking space provided by the hotel considered a safekeeping agreement? ","
+The Hotel is liable to the Customer for property brought into the Hotel in accordance with the statutory provisions. The Hotel
+recommends the use of the safe at the Hotel reception. If the guest wishes to bring money, securities and valuables with a value of more
+than €800 or other items with a value of more than €3’500 into the Hotel, a separate safekeeping agreement with the Hotel is necessary.
+Insofar as a parking space is provided to the Customer in the Hotel garage or a Hotel parking lot, this does not constitute a
+safekeeping agreement, even if a fee is charged. The Hotel only assumes liability pursuant to the preceding No. 10.1 for loss of or damage
+to motor vehicles parked or maneuvered on the Hotel’s property, as well as for loss of or damage to its contents.",C,26,2
+42,"
+What is the hotel's liability for loss or damage to motor vehicles parked on its property? ","
+The Hotel is liable to the Customer for property brought into the Hotel in accordance with the statutory provisions. The Hotel
+recommends the use of the safe at the Hotel reception. If the guest wishes to bring money, securities and valuables with a value of more
+than €800 or other items with a value of more than €3’500 into the Hotel, a separate safekeeping agreement with the Hotel is necessary.
+Insofar as a parking space is provided to the Customer in the Hotel garage or a Hotel parking lot, this does not constitute a
+safekeeping agreement, even if a fee is charged. The Hotel only assumes liability pursuant to the preceding No. 10.1 for loss of or damage
+to motor vehicles parked or maneuvered on the Hotel’s property, as well as for loss of or damage to its contents.",C,26,2
+43,,"
+The Hotel is liable to the Customer for property brought into the Hotel in accordance with the statutory provisions. The Hotel
+recommends the use of the safe at the Hotel reception. If the guest wishes to bring money, securities and valuables with a value of more
+than €800 or other items with a value of more than €3’500 into the Hotel, a separate safekeeping agreement with the Hotel is necessary.
+Insofar as a parking space is provided to the Customer in the Hotel garage or a Hotel parking lot, this does not constitute a
+safekeeping agreement, even if a fee is charged. The Hotel only assumes liability pursuant to the preceding No. 10.1 for loss of or damage
+to motor vehicles parked or maneuvered on the Hotel’s property, as well as for loss of or damage to its contents.",C,26,2
+44,"What is the primary responsibility of the Hotel regarding wake-up calls? 
+","
+Wake-up calls are carried out by the Hotel with the greatest possible diligence. Messages, mail and deliveries for guests are handled
+with care. The Hotel delivers, stores, and – on request and against payment – forwards such items. The Hotel only assumes liability hereby
+according to the pre-ceding No. 10.1.",O,27,2
+45," What types of items are handled by the Hotel for guests? 
+","
+Wake-up calls are carried out by the Hotel with the greatest possible diligence. Messages, mail and deliveries for guests are handled
+with care. The Hotel delivers, stores, and – on request and against payment – forwards such items. The Hotel only assumes liability hereby
+according to the pre-ceding No. 10.1.",C,27,2
+46," Can guests request the Hotel to forward their items to another location? 
+","
+Wake-up calls are carried out by the Hotel with the greatest possible diligence. Messages, mail and deliveries for guests are handled
+with care. The Hotel delivers, stores, and – on request and against payment – forwards such items. The Hotel only assumes liability hereby
+according to the pre-ceding No. 10.1.",C,27,2
+47, What is the condition under which the Hotel assumes liability for handling guest items?,"
+Wake-up calls are carried out by the Hotel with the greatest possible diligence. Messages, mail and deliveries for guests are handled
+with care. The Hotel delivers, stores, and – on request and against payment – forwards such items. The Hotel only assumes liability hereby
+according to the pre-ceding No. 10.1.",C,27,2
+48,What are the customer's responsibilities in case of a disruption to the hotel's performance?,"
+Upon knowledge or prompt objection by the Customer, the Hotel will act to remedy possible disruptions or defects in its performance.
+The Customer is obliged to undertake reasonable actions in order to remedy the disruption and to keep a possible damage to a minimum.",O,28,2
+49,"Is smoking allowed in public areas of the hotel? 
+Is e-cigarette use permitted in hotel rooms? 
+What is the penalty for violating the hotel's no-smoking policy?","
+Smoking (including e-cigarettes or similar) in a non-smoking room is prohibited. Smoking (included e-cigarettes or similar) is also not
+permitted in the public areas of the hotel. Violation of this no-smoking policy entitles the hotel to terminate the contract without notice. In any
+case the hotel will invoice any costs for special cleaning of the hotel room in the amount of EUR 150.00 to the customer.",O,29,2
+50,What are the consequences for a hotel guest who triggers the fire alarm by smoking in a hotel room or public area?,"
+The hotel rooms are fitted with sensitive automated smoke alarms. If smoking in the hotel room or public areas causes an activation of
+the automatic fire alarm, resulting in an intervention by the police and the fire brigade, the customer shall bear any costs incurred, however
+at least EUR 800.",O,30,2
+51,,"
+Dogs may only be kept after obtaining prior written consent from the hotel. The costs for keeping dogs are not included in the room
+rate. The customer shall also bear any costs incurred for extra or special cleaning, e.g. soiling or damage, as a result of keeping a
+dog/dogs. Other pets than dogs are not allowed.",O,31,2
+52," Are there any costs associated with keeping dogs at the hotel? 
+","
+Dogs may only be kept after obtaining prior written consent from the hotel. The costs for keeping dogs are not included in the room
+rate. The customer shall also bear any costs incurred for extra or special cleaning, e.g. soiling or damage, as a result of keeping a
+dog/dogs. Other pets than dogs are not allowed.",C,31,2
+53," What types of pets are allowed at the hotel? 
+","
+Dogs may only be kept after obtaining prior written consent from the hotel. The costs for keeping dogs are not included in the room
+rate. The customer shall also bear any costs incurred for extra or special cleaning, e.g. soiling or damage, as a result of keeping a
+dog/dogs. Other pets than dogs are not allowed.",C,31,2
+54, Is there a specific process for obtaining consent to keep a dog at the hotel?,"
+Dogs may only be kept after obtaining prior written consent from the hotel. The costs for keeping dogs are not included in the room
+rate. The customer shall also bear any costs incurred for extra or special cleaning, e.g. soiling or damage, as a result of keeping a
+dog/dogs. Other pets than dogs are not allowed.",C,31,2
+55,"What is the purpose of the text provided? 
+Who is liable for damages to hotel room items beyond usual wear and tear? 
+What is prohibited when using the hotel's internet connection? 
+What type of files are considered copyrighted and cannot be shared? 
+What will the customer be liable for in case of copyright infringement?","
+In case any furnishing and/or fixtures (e.g. furniture, built-in furniture, floor coverings, etc.) and/or other items and materials used and
+provided in the hotel rooms and the hotel building (e.g. pillows, duvets, mattresses, towels, etc.) will be damaged or soiled beyond the
+usual measure, the customer will bear the costs for renewal, replacement and/or repair in any case. 12 TECHNICAL INSTALLATIONS, CONNECTIONS AND INTERNET USE
+The customer is not permitted to carry out any illegal file sharing using the internet connection provided by the hotel. This includes, in
+particular, any uploading or downloading of copyrighted text, music, film or software files. The customer shall be liable for all damages
+suffered by the hotel and/or the copyright holder for the violation.",O,32,2
+56,"What is the purpose of the hotel's disclaimer about the internet connection? 
+Is the hotel liable for damages to the customer's electronic devices? 
+What types of devices are the hotel warning customers about potential damage to? 
+Can the hotel be held responsible for the contents of websites accessed through their internet? 
+What is the hotel's policy regarding the use of the internet by its customers?","
+The hotel gives no guarantee for the actual availability, suitability or reliability of the internet connection for any purpose. Furthermore,
+the hotel is not liable for any damages to the Customer’s PC, tablet, smartphone etc. resulting from the use of the internet. In particular, the
+hotel is not liable for the contents of any websites called up or any downloaded files. Furthermore, no liability will be assumed for any
+viruses caused by use of the internet. The customer shall use the internet at his own risk.",O,33,2
+57,What is the duration of the statutory limitation period for claims against the Hotel? ,"
+All claims against the Hotel shall generally prescribe one year after the commencement of the statutory limitation period.
+The reduction of the statutory limitation period in No. 11.1 does neither apply to damage claims, nor to claims which are based on an
+intentional or grossly negligent breach of obligation by the Hotel.",O,34,2
+58," 
+What type of claims are exempt from the reduced statutory limitation period?","
+All claims against the Hotel shall generally prescribe one year after the commencement of the statutory limitation period.
+The reduction of the statutory limitation period in No. 11.1 does neither apply to damage claims, nor to claims which are based on an
+intentional or grossly negligent breach of obligation by the Hotel.",C,34,2
+59,"Where is the ""Privacy Notice for Guests"" typically located?","
+You can find more detailed information about the handling of your personal data in our “Privacy Notice for Guests”, which is available
+at the Reception.",O,35,2
+60,What is the purpose of the ODR platform? ,"
+In compliance with its statutory obligation the hotel points out that the European Union has set up an online platform for the
+extrajudicial resolution of consumer disputes (“ODR platform”): http://ec.europa.eu/consumers/odr/",O,36,2
+61, Is the ODR platform a mandatory or optional process for resolving consumer disputes?,"
+In compliance with its statutory obligation the hotel points out that the European Union has set up an online platform for the
+extrajudicial resolution of consumer disputes (“ODR platform”): http://ec.europa.eu/consumers/odr/",C,36,2
+62,Does the hotel accept parcels and mail items addressed to guests who have not yet arrived?,"
+The hotel does not, however, participate in dispute resolution proceedings held before consumer dispute resolution bodies.
+Parcels and other postal or mail items are accepted by the hotel only if they are addressed to an overnight guest or to an event known
+to the hotel and are pre-registered for an overnight stay or an event or have already arrived at the hotel.",O,37,2
+63,Will unregistered parcels or letters be accepted by the hotel?,"
+However, these parcel or letter and postal consignments will only be accepted if they have been registered in good time by the
+consignor. Unregistered parcel or letter and mail items, as well as not clearly addressed items (for example missing guest or event name)
+will not be accepted by the hotel and will be returned to the sender.",O,38,2
+64,What costs are typically associated with customs clearance?,"
+The hotel does not assume any costs for any customs clearance.",O,39,2
+65,"What is the purpose of sending requests to the email address hotel.munich.airport@movenpick.com?
+What type of deliveries are typically sent to the email address hotel.munich.airport@movenpick.com?","
+If a sender does not have a personal contact person at the hotel, requests for deliveries can be sent to the following e-mail:
+hotel.munich.airport@movenpick.com",O,40,2
+66,What is the condition for making amendments to the Contract or General Terms and Conditions?,"
+Amendments and supplements to the Contract or to the acceptance of offers or to these General Terms and Conditions should be
+made in writing. Unilateral amendments or supplements by the Customer are invalid.",O,41,2
+67,What is the place of performance and payment according to the text?,"
+In commercial transactions, the place of performance and payment is the place where the particular Hotel is located. In commercial
+transactions, as well as when the Customer lacks a place of general jurisdiction within the country according to Section 38, paragraph 2 of
+the German Code of Civil Procedure (ZPO), the courts at the seat of the Operating Company shall have exclusive jurisdiction in all disputes
+arising out of or in connection with the Contract or these General Terms and Conditions, including in disputes concerning checks and bills
+of exchange.",O,42,2
+68,"What is the law governing the Contract and these General Terms and Conditions? 
+What happens if one or more provisions of the General Terms and Conditions are deemed invalid?","
+The Contract and these General Terms and Conditions are governed exclusively by German substantive law, without the application
+of its conflict of law’s provisions. The application of the UN Convention on Contracts for the International Sale of Goods is precluded.
+Should individual provisions of these General Terms and Conditions be or become invalid or void, the validity of the remaining
+provisions shall re-main unaffected thereby.",O,43,2
+69,What is the official language of the General Terms and Conditions?,"
+The approved English version of these General Terms and Conditions shall take precedence over its translations.",O,44,2

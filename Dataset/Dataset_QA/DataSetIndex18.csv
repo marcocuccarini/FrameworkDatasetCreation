@@ -1,0 +1,191 @@
+,question,answer,question_index,answer_index,document_index
+0,What is the main purpose of the regulation mentioned in the text?,"The people who access this hotel shall be obliged to comply this regulation, in which does not contravene Law 13/2011,
+of December 23, on Tourism, Decree Law 13/2020, of May 18th, on hotel establishments, and other rules and precept of
+application.",O,0,18
+1,What are the reasons for denying admission and stay at the hotel?,"
+Access, admission and stay at the establishment
+This hotel is of public use and has free access, without any restrictions other than those derived from legal provisions
+and this regulation. The admission and stay of people at this establishment will only be denied for the following reasons:
+Due to lack of capacity in accommodation or facilities.",O,1,18
+2,What are the specific admission requirements that need to be complied with?,"
+Due to not complying the admission requirements established in this regulation.",O,2,18
+3,Is the law being referred to in the text a specific country's law or a general international law?,"
+When users are under the age permitted to the access to this kind of establishment, according the applicable
+law.",O,3,18
+4,What are the consequences for a user who exhibits violent behavior on the platform?,"
+When the person shows any violent attitude, especially, when his behavior is aggressive or provoke any
+argument, promote dangerous situations or disturb other users, or they don ́t have the minimal hygienic
+conditions.",O,4,18
+5,Is carrying a weapon outside of a professional context a crime?,"
+When the person bears weapons and/or any object subjected to be used with that purpose, unless the
+individual in particular belongs to the army, a security body, bodyguards and make use of the establishment
+because of their functions.",O,5,18
+6,What is the typical behavior exhibited by someone who has consumed narcotics?,"
+When the person is consuming drugs, narcotics, or they show symptoms of having consumed them, and the
+ones show signs or evident behavior of being drunken.",O,6,18
+7,What is the main reason for a person being removed from an establishment?,"
+When the person causes such a noise that breaks the normal development of the establishment.
+When the person does take measure of attitudes against the public health and the cleaning of the
+establishment.",O,7,18
+8,What is the purpose of requiring people to abandon the establishment with previous payment of the invoice?,"
+By adopting behaviors that may cause danger or inconvenience to other people, or by hamper the normal
+development of the activity
+When one of these indicated circumstances occurred or by the people incurring in one or more of the restrictions listed
+above, the responsible employee of the establishment may require them to abandon the establishment, with previous
+payment, when appropriate, of the invoice pending. If necessary, they may ask for security according to article 36 of the
+tourism law, and article 25 of the Hotel Management Decree.",O,8,18
+9,What type of establishment is implied in this text?,"
+It is expressly stated that free access to the facilities, services and accommodation of this establishment cannot be
+denied to people who wish to come for sex reasons, disability, with or without a guide dog, religion, opinion or any other
+personal or social circumstance.",O,9,18
+10,What type of identification documents are required for users to be registered and admitted at the establishment?,"
+The people who wish to use the rooms, the common areas, and, when appropriate, the complementary services detailed
+in this regulation, should present their identification documents to be registered and admitted at this establishment.
+Users may freely access the establishment and remain in it, with the limitations contained in the standards indicated in
+section 1st paragraph and in this regulation.",O,10,18
+11,What are the consequences if a user does not pay the total amount of the services booked? ,"
+Users are obliged to read the rules contained in this regulation, which they expressly accept when they sign the admission
+document, and those written by the manager about safety, coexistence and hygiene, for the proper use of the
+establishment. Users have to proof their state, showing the admission document, when required, respect the booked
+facilities and equipment of this establishment and pay the total amount of the services booked as soon as they have an
+invoice or agreeing to the conditions according the Article 21 of the Decree Law. The presentation of any claim does not
+exempt the obligation to pay for the services booked.",O,11,18
+12," 
+What documents must users show to prove their state in the establishment?","
+Users are obliged to read the rules contained in this regulation, which they expressly accept when they sign the admission
+document, and those written by the manager about safety, coexistence and hygiene, for the proper use of the
+establishment. Users have to proof their state, showing the admission document, when required, respect the booked
+facilities and equipment of this establishment and pay the total amount of the services booked as soon as they have an
+invoice or agreeing to the conditions according the Article 21 of the Decree Law. The presentation of any claim does not
+exempt the obligation to pay for the services booked.",C,11,18
+13,Who can the establishment seek help from to remove users who do not respect the regulation? ,"
+This establishment may seek the help of the authority agents to clear out the dependencies of the users who do not
+respect this regulation, whom intend to access or remain in the establishment for a purpose other than the usual use of
+the hotel services. Furthermore, they can also seek the help of the authority in case there are people not registered as
+users, attendees of banquets, meetings, etc. or that they incur in the assumptions foreseen in section 2 above.",O,12,18
+14,"
+What are the circumstances under which the establishment can seek help from authority agents?","
+This establishment may seek the help of the authority agents to clear out the dependencies of the users who do not
+respect this regulation, whom intend to access or remain in the establishment for a purpose other than the usual use of
+the hotel services. Furthermore, they can also seek the help of the authority in case there are people not registered as
+users, attendees of banquets, meetings, etc. or that they incur in the assumptions foreseen in section 2 above.",C,12,18
+15,What is the purpose of registering for access to accommodation units?,"
+Accommodation units can only be accessed by people registered for this purpose, as stated in Article 2. E. of Decree
+Law.",O,13,18
+16,What is the purpose of a payment guarantee according to the text?,"
+This establishment may request payment guarantee for the services booked, that covers the whole reservations as well
+as for the possible extras, in accordance with the applicable regulations and to charge the corresponding account for the
+damages to the facilities, furniture and elements of the establishment due to negligence or wrong use of those.",O,14,18
+17,What is the main reason why the services may not admit users outside of certain hours?,"
+Furthermore, the timetable of the different services may vary throughout the seasons, depending on the seasonality,
+having the right to not admit users outside those hours, also when the maximum authorized capacity is exceeded or
+when they are requested within the limits of admission, thereby damaging the work schedule of the services. The
+mentioned services, the details of their schedule’s hours, their prices and use conditions, are exposed at the entry, and,
+in summary, at the existing directories at the accommodations, which also contains information.",O,15,18
+18,"What is the latest time a user can occupy the room on the day of departure? 
+What happens if a user wants to stay more days than originally booked?","
+Users of this establishment have the right to occupy this room from 2 p.m., on check in date until noon, 12 p.m., on the
+day indicated as the departure date. However, on dates with maximum occupancy, the accommodation unit may be
+delayed by two hours. Rooms that remain occupied after 12 p.m. will be considered an extension of the stay and billed
+as an additional night and, in the event that the user would like to stay more days than originally booked and specified
+in the admission document, there must be an agreement between both parties.",O,16,18
+19,What happens if a person checks in with someone else in a room originally booked for single occupancy?,"
+It won ́t be allowed the accommodation of two people in double room contracted for an individual use. In this case, the
+second person must be register and the rate set for a double use will be paid.",O,17,18
+20,What is the time frame for the cleaning of the rooms?,"
+The cleaning of the rooms will be carried out between 9 a.m. and 4 p.m. If you don ́t want the room to be made up, hang
+the “Please Do Not Disturb” sign in the outside doorknob.",O,18,18
+21,What is the deadline for the minimum rate to be considered finished?,"
+The accommodation rates will be computed by days and according to nights they stay. The minimum rate would be the
+amount of one night, understanding to be finished by noon, 12 o’clock, day after the check in date.",O,19,18
+22,Can the establishment demand payment for services before presenting an invoice?,"
+The establishment may require, at any time and prior to the presentation of its invoice, the payment of the services
+provided outside the accommodation, even if the payment of this has been agreed in advance.",O,20,18
+23,Will invoices be provided for third-party bookings?,"
+Invoices will only be provided for accommodation and services booked directly by users.",O,21,18
+24,What items is the hotel specifically warning it will not be responsible for?,"
+In each room there is a safety box installed. The Hotel is not responsible for cash, jewelry and other valuables that are
+not delivered for safekeeping in our safe deposit boxes at reception deck.",O,22,18
+25,What is the purpose of the security deposit at the reception desk? ,"
+They are available to guests at reception. The service is free after the user’s identification and formalization of a security
+deposit at the reception desk, where it will also be delivered later. They may only be used in the establishment's
+swimming pool. In case of loss or deterioration of the towel, the client will pay e client will pay the total amount.",O,23,18
+26,"
+Can guests use the towels outside of the establishment's swimming pool? ","
+They are available to guests at reception. The service is free after the user’s identification and formalization of a security
+deposit at the reception desk, where it will also be delivered later. They may only be used in the establishment's
+swimming pool. In case of loss or deterioration of the towel, the client will pay e client will pay the total amount.",C,23,18
+27,"
+What happens if a guest loses or damages a towel? ","
+They are available to guests at reception. The service is free after the user’s identification and formalization of a security
+deposit at the reception desk, where it will also be delivered later. They may only be used in the establishment's
+swimming pool. In case of loss or deterioration of the towel, the client will pay e client will pay the total amount.",C,23,18
+28,,"
+They are available to guests at reception. The service is free after the user’s identification and formalization of a security
+deposit at the reception desk, where it will also be delivered later. They may only be used in the establishment's
+swimming pool. In case of loss or deterioration of the towel, the client will pay e client will pay the total amount.",C,23,18
+29,Who is allowed to use the swimming pool and other facilities mentioned?,"
+The swimming pool, its furniture, the gardens and the parking, are for the exclusive use of our clients.",O,24,18
+30,What are the consequences for using the pool outside of its designated hours?,"
+The use of the pool is prohibited outside of its opening hours, as this is when the maintenance staff starts cleaning and
+chlorinating the water. The establishment is not responsible for injuries or damages that occur to people or to their
+belongings for neglecting said schedule.",O,25,18
+31,"What are the exceptions to the rule of not using floats, balls and similar objects at the swimming pool?","
+At the swimming pool, it is not allowed to use floats, balls and similarities, except for children’s floats or swimmers.
+It is not allowed to jump into the pool in an inverted position, with head ahead, nor playing with balls or similarities at the
+pool and gardens for the safety of people and plants.",O,26,18
+32,What is the main reason for the restrictions mentioned in the text?,"
+It is not allowed to use music devices or instruments at a volume that can disturb the rest of the users.
+The consumption of drinks or meals which are not purchased on site are also not allowed.",O,27,18
+33,Is the ban on eating at swimming pools and gardens due to health concerns?,"
+Due to hygiene reasons, the consumption of food at swimming pools are gardens is not allowed unless it is under the
+control of bars and restaurants.",O,28,18
+34,"What are the items not allowed at the swimming pools and gardens? 
+","
+The use of towels, blankets, etc., coming from the rooms, are not allowed at the swimming pools and gardens.
+It is not allowed to reserve sunbeds beforehand by placing towels, clothes or other personal objects. If necessary and in
+the circumstances described, the staff of the establishment may remove the clothes or objects from the sunbeds so that
+this can be occupied by other users.",O,29,18
+35," What is the reason for not allowing sunbeds to be reserved beforehand? 
+","
+The use of towels, blankets, etc., coming from the rooms, are not allowed at the swimming pools and gardens.
+It is not allowed to reserve sunbeds beforehand by placing towels, clothes or other personal objects. If necessary and in
+the circumstances described, the staff of the establishment may remove the clothes or objects from the sunbeds so that
+this can be occupied by other users.",C,29,18
+36, Can the staff of the establishment remove personal objects from sunbeds?,"
+The use of towels, blankets, etc., coming from the rooms, are not allowed at the swimming pools and gardens.
+It is not allowed to reserve sunbeds beforehand by placing towels, clothes or other personal objects. If necessary and in
+the circumstances described, the staff of the establishment may remove the clothes or objects from the sunbeds so that
+this can be occupied by other users.",C,29,18
+37,Is the use of elevators by children restricted due to safety concerns?,"
+Children are not allowed to use the elevators without a responsible adult.",O,30,18
+38,Is there an exception for service animals besides guide dogs?,"
+ Animals are not allowed at this establishment, excepting guide dogs.",O,31,18
+39,What is the reason for the restriction on walking through common areas without shoes?,"
+ It is not allowed to walk through the common areas without shoes and shirtless or in swimwear.",O,32,18
+40,What time is considered quiet hours in the building?,"
+ From 10 p.m. to 9 a.m. it is not allowed to make noise at the corridors and common areas that may disturb the
+other users.",O,33,18
+41,What type of document or card is required for admission?,"
+ Before entering the Bar o Restaurant, users must show their admission document or card, in order to control
+their bill depending on what they consume.",O,34,18
+42,"What are the areas where it is not allowed to use, consume, or possess any dangerous products?","
+ It is not allowed to hang clothes in the window of the room or in the pool or garden area.
+ In the areas of this establishment, it is not allowed to use, consume, or possess any dangerous products that
+are stated on the current legislation of public health.",O,35,18
+43,Is there a specific reason why electrical water heaters require prior authorization from management?,"
+ It is totally forbidden to cook in the rooms, as well as use electrical water heaters without previous authorization
+from the management.",O,36,18
+44,Is the use of music players allowed in hotel rooms?,"
+ The use of devices, instruments or music players at a volume that disturbs the rest of other users is prohibited,
+both in the common areas of the hotel and inside the rooms.",O,37,18
+45,What is the primary requirement for using the parking and swimming pool facilities mentioned in the text?,"
+ The parking and swimming pool are for the exclusive use of hotel guests.",O,38,18
+46,Is smoking permitted anywhere in the establishment?,"
+ Smoking is not allowed in the entire establishment.",O,39,18
+47,Is the rule mentioned in the text intended to prevent food theft or to maintain quality control?,"
+ It is not allowed to take food out of the hotel dining room without prior authorization.",O,40,18
+48,Is it permitted to enter restricted areas within the establishment?,"
+ Access to reserved or private rooms or spaces of the establishment is not allowed.",O,41,18
+49,What is the reason for the hotel's ban on irons and candles in the rooms?,"
+ For security reasons, it is not permitted the use of irons and candle within the hotel rooms.",O,42,18
