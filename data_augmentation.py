@@ -26,9 +26,9 @@ import json
 
 model_LLama=Local_LLama()
 
-index=20
+index=0
 
-r=Dataset_QA('Dataset/Dataset_QA/DataSetIndex'+str(index)+'.csv', model_LLama, index )
+r=Dataset_QA('Dataset/Dataset_Base/DataSetIndex'+str(index)+'.csv', model_LLama, index )
 
 r.load_dataset()
 
